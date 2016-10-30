@@ -12,7 +12,7 @@ To keep things simple and organized, we need to keep some basic rules when addin
 :)
 
 
-Contributors (10/26/16)
+Original Contributors from https://github.com/ellisonleao/magictools
 --------
 @ellisonleao,
 @Zolomon,
