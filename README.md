@@ -44,6 +44,9 @@ Please remember to always look at the license before using something in your pro
   - [IDE and Editors](#ide-and-editors)
 - [Design and Management](#design-and-management)
     - [Design Tools](#design-tools)
+		- [Idea Generators](#idea-generators)
+		- [Marketing](#marketing)
+		- [Mechanics](#mechanics)
     - [Project Management](#project-management)
 - [Media](#media)
   - [Books](#books)
@@ -61,7 +64,7 @@ Graphics
 --------
 *Great graphics placeholders and tools to turn that squared game into a picasso painting*
 
-### Graphic Assets 
+### Graphic Assets
 
 #### 2D Assets/Placeholders
 
@@ -142,7 +145,7 @@ Graphics
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively ![free](/img/free.png)
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
 * [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D terrain generator
-* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing ![commercial](/img/commercial.png) 
+* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing ![commercial](/img/commercial.png)
 
 #### Texture Tools
 
@@ -362,12 +365,26 @@ Design and Management
 *Tools for assisting games*
 
 ### Design Tools
+* [10xGDD](http://pixelatto.com/10xgdd/) A fun-centric design brief template for your game designs. ![free](/img/free.png)
 * [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content. ![commercial](/img/commercial.png)
-* [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator. ![free](/img/free.png)
 * [Dundoc](http://www.dundoc.com/) Game Design starter Template ![free](/img/free.png)
 * [plotbot](http://www.plotbot.com/) Write screenplays in your browser. ![free](/img/free.png)
-* [RPTools](http://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games. ![free](/img/free.png)
 * [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents  ![commercial](/img/commercial.png)
+* [Tiny Game Design Tool](http://tinygdtool.urustar.net) small, portable booklet created in order to help game designers. ![free](/img/free.png)
+
+### Idea Generators
+* [Boardgamizer](http://www.boardgamizer.com) - Board Game Design Idea Generator. ![free](/img/free.png)
+* [Gigster](http://www.ludocraft.com/gigster/) Randomized Game Idea Generator  ![free](/img/free.png)
+* [RPTools](http://www.rptools.net) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games. ![free](/img/free.png)
+* [Video Game Name Generator](https://videogamena.me) Randomized video games names ![free](/img/free.png)
+
+### Marketing
+
+* [Gamebrief](http://www.metkis.com/gamebrief/index.html) Focus development of your game with 10 questions. ![free](/img/free.png)
+
+### Mechanics
+
+* [Board Game Mechanics](http://boardgamegeek.com/browse/boardgamemechanic) Set of different board game mechanics ![free](/img/free.png)
 
 ### Project Management
 
@@ -485,4 +502,3 @@ Learn
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
-
