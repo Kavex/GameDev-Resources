@@ -40,7 +40,7 @@ Please remember to always look at the license before using something in your pro
   - [Game Source Code](#game-source-code)
   - [IDE and Editors](#ide-and-editors)
 - [Design and Management](#design-and-management)
-    - [Board Games](#board-games)
+    - [Design Tools](#design-tools)
     - [Project Management](#project-management)
 - [Media](#media)
   - [Books](#books)
@@ -359,10 +359,13 @@ Design and Management
 -----------
 *Tools for assisting games*
 
-### Board Games
-
-* [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator.
-* [RPTools](http://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games.
+### Design Tools
+* [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content. ![commercial](/img/commercial.png)
+* [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator. ![free](/img/free.png)
+* [Dundoc](http://www.dundoc.com/) Game Design starter Template ![free](/img/free.png)
+* [plotbot](http://www.plotbot.com/) Write screenplays in your browser. ![free](/img/free.png)
+* [RPTools](http://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games. ![free](/img/free.png)
+* [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents  ![commercial](/img/commercial.png)
 
 ### Project Management
 
