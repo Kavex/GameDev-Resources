@@ -33,11 +33,12 @@ Please remember to always look at the license before using something in your pro
   - [Audio Assets](#audio-assets)
   - [Audio Tools](#audio-tools)
 - [Code](#code)
+  - [Ads and Monetization](#ads-and-monetization)
   - [Engines and Frameworks](#engines-and-frameworks)
     - [2D](#2d)
     - [3D](#3d)
-  - [Ads and Monetization](#ads-and-monetization)
   - [Game Source Code](#game-source-code)
+  - [IDE & Editors](#ide-&-editors)
 - [Design and Management](#design-and-management)
     - [Board Games](#board-games)
     - [Project Management](#project-management)
@@ -212,8 +213,17 @@ Code
 ----
 *Set of game frameworks, engines and platforms*
 
-### Engines and Frameworks
+### Ads and Monetization
 
+* [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile.
+* [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
+* [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
+* [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
+* [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
+* [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
+* [Vungle](https://vungle.com/) - Video Ads service.
+
+### Engines and Frameworks
 #### 2D
 
 * [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
@@ -326,16 +336,6 @@ Code
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
 with AWS and Twitch – with full source.
 
-### Ads and Monetization
-
-* [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile.
-* [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
-* [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
-* [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
-* [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
-* [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
-* [Vungle](https://vungle.com/) - Video Ads service.
-
 ### Game Source Code
 
 * [Doom 3](https://github.com/id-Software/DOOM-3) ![open soucce](/img/opensource.png)
@@ -347,6 +347,12 @@ with AWS and Twitch – with full source.
 * [Quake](https://github.com/id-Software/Quake) ![open soucce](/img/opensource.png)
 * [SimCity](https://github.com/simhacker/micropolis) ![open soucce](/img/opensource.png)
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ![open soucce](/img/opensource.png)
+
+### IDE & Editors
+
+* [Atom](https://atom.io/) Highly customizable open source text editor ![open soucce](/img/opensource.png)
+* [Sublime Text](http://www.sublimetext.com/) Sophisticated text editor for code, markup and prose. ![commercial](/img/commercial.png)
+* [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE ![free](/img/free.png)e
 
 Design and Management
 -----------
