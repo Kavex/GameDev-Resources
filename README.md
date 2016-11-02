@@ -10,7 +10,7 @@
 A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
 
 :heavy_dollar_sign: = Paid,
-:exclamation: = Limited Free,
+:grey_exclamation: = Limited Free,
 :free: = 100% Free,
 :o2: = Open Source
 
