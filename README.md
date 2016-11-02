@@ -1,4 +1,4 @@
-Link Checker: [![Build Status](https://travis-ci.org/Kavex/GameDev-Resources.svg?branch=master)](https://travis-ci.org/Kavex/GameDev-Resources)
+:checkered_flag: Link Checker: [![Build Status](https://travis-ci.org/Kavex/GameDev-Resources.svg?branch=master)](https://travis-ci.org/Kavex/GameDev-Resources)
 
 
 <h1 align="center">
