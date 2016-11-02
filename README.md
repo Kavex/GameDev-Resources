@@ -38,7 +38,7 @@ Please remember to always look at the license before using something in your pro
     - [2D](#2d)
     - [3D](#3d)
   - [Game Source Code](#game-source-code)
-  - [IDE & Editors](#ide-&-editors)
+  - [IDE and Editors](#ide-and-editors)
 - [Design and Management](#design-and-management)
     - [Board Games](#board-games)
     - [Project Management](#project-management)
@@ -348,22 +348,23 @@ with AWS and Twitch – with full source.
 * [SimCity](https://github.com/simhacker/micropolis) ![open soucce](/img/opensource.png)
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) ![open soucce](/img/opensource.png)
 
-### IDE & Editors
+### IDE and Editors
 
 * [Atom](https://atom.io/) Highly customizable open source text editor ![open soucce](/img/opensource.png)
+* [Notepad++](https://notepad-plus-plus.org/) Notepad replacement that supports several languages. ![open soucce](/img/opensource.png)
 * [Sublime Text](http://www.sublimetext.com/) Sophisticated text editor for code, markup and prose. ![commercial](/img/commercial.png)
-* [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE ![free](/img/free.png)e
+* [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE ![free](/img/free.png)
 
 Design and Management
 -----------
 *Tools for assisting games*
 
-#### Board Games
+### Board Games
 
 * [Boardgamizer](http://www.boardgamizer.com/) - Board Game Design Idea Generator.
 * [RPTools](http://www.rptools.net/) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games.
 
-#### Project Management
+### Project Management
 
 * [Casual](https://casual.pm/) - Visual Project Management ![commercial](/img/commercial.png)
 * [HacknPlan](http://hacknplan.com/) - Project management for game developers ![limited free](/img/limited.png)
