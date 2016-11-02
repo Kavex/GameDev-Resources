@@ -72,7 +72,7 @@ Graphics
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use. :free:
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games. :free:
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. :free:
-* [Kenny Assets](http://kenney.nl/assets) - Royalty free assets :exclamation:
+* [Kenny Assets](http://kenney.nl/assets) - Royalty free assets :grey_exclamation:
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. :free:
 * [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites :heavy_dollar_sign:
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites). :free:
@@ -87,12 +87,12 @@ Graphics
 
 #### Multiple Asset Collections
 
-* [CGTextures](http://www.textures.com) - A large collection of textures. :exclamation:
+* [CGTextures](http://www.textures.com) - A large collection of textures. :grey_exclamation:
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators. :heavy_dollar_sign:
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. :free:
 * [PlainTextures](http://www.plaintextures.com/) -  Free high resolution textures, brushes and photos :free:
-* [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models. :exclamation:
-* [Upando](http://upan.do/) - Marketplace with lots of resources for game developers. :exclamation:
+* [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models. :grey_exclamation:
+* [Upando](http://upan.do/) - Marketplace with lots of resources for game developers. :grey_exclamation:
 * [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. :free:
 
 ### Graphic Tools
@@ -127,7 +127,7 @@ Graphics
 * [sculptris](http://pixologic.com/sculptris/) :free:
 * [Maya](http://www.autodesk.com/products/maya/overview) :heavy_dollar_sign:
 * [3ds Max](http://www.autodesk.com/products/3ds-max/overview) :heavy_dollar_sign:
-* [Clara.io](https://clara.io/) :exclamation:
+* [Clara.io](https://clara.io/) :grey_exclamation:
 
 #### Spritesheet Tools
 
@@ -251,7 +251,7 @@ Code
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3. :o2:
-* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. :exclamation:
+* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. :grey_exclamation:
 * [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [Gideros](http://giderosmobile.com/) - A Cross-Platform framework to create Mobile Apps and games for iOS, Android using Lua programming language.
 * [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
@@ -387,9 +387,9 @@ Design and Management
 ### Project Management
 
 * [Casual](https://casual.pm/) - Visual Project Management :heavy_dollar_sign:
-* [HacknPlan](http://hacknplan.com/) - Project management for game developers :exclamation:
-* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers :exclamation:
-* [Trello](https://trello.com/) - Organize and prioritize projects :exclamation:
+* [HacknPlan](http://hacknplan.com/) - Project management for game developers :grey_exclamation:
+* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers :grey_exclamation:
+* [Trello](https://trello.com/) - Organize and prioritize projects :grey_exclamation:
 
 Media
 ----
