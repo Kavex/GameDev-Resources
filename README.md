@@ -1,3 +1,6 @@
+Link Checker: [![Build Status](https://travis-ci.org/Kavex/GameDev-Resources.svg?branch=master)](https://travis-ci.org/Kavex/GameDev-Resources)
+
+
 <h1 align="center">
 	<br>
 	<img width="300" src="/img/controller.png" alt="awesome">
