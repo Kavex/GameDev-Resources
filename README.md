@@ -148,16 +148,16 @@ Graphics
 
 #### Texture Tools
 
-* [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters.
-* [PixPlant](http://www.pixplant.com/) - PixPlant is a smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos.
-* [STG](http://www.seamlesstexturegenerator.com/) - a tool for creating professional  seamlessly-tileable textures from photographs quickly and easily.
+* [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters. :heavy_dollar_sign:
+* [PixPlant](http://www.pixplant.com/) - Smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos. :heavy_dollar_sign:
+* [STG](http://www.seamlesstexturegenerator.com/) - a tool for creating professional  seamlessly-tileable textures from photographs quickly and easily. :heavy_dollar_sign:
 
 #### Tile/Level Editors
 
 * [ArrayPainter](http://www.arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 * [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains. :heavy_dollar_sign:
 * [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor. :o2:
-* [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy.
+* [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy. :o2:
 * [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor. :free:
 * [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. :free:
 
