@@ -7,8 +7,6 @@
 	<br>
 </h1>
 
-A list of game development resources to make **magic** happen. Created by awesome people for awesome people.
-
 :heavy_dollar_sign: = Paid,
 :triangular_flag_on_post: = Limited Free,
 :free: = 100% Free,
