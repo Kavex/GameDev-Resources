@@ -15,9 +15,9 @@
 Please remember to always look at the license before using something in your project.
 <!--- Please keep links alphabetical in the list -->
 - [Assets](#assets)
-	- [2D Assets](#2d-assets)
-	- [3D Assets](#3d-assets)
-	- [Audio Assets](#audio-assets)
+	- [2D](#2d-assets)
+	- [3D](#3d-assets)
+	- [Audio](#audio-assets)
 	- [Multiple Graphic Collections](#multiple-graphic-collections)
 - [Code](#code)
 	- [Ads and Monetization](#ads-and-monetization)
@@ -26,8 +26,6 @@ Please remember to always look at the license before using something in your pro
 		- [3D](#3d)
 	- [Game Source Code](#game-source-code)
 - [Design](#design)
-	- [Computer Graphics](#computer-graphics)
-	- [General Game Development](#general-game-development)
 	- [Idea Generators](#idea-generators)
 	- [Marketing](#marketing)
 	- [Mechanics](#mechanics)
@@ -40,10 +38,10 @@ Please remember to always look at the license before using something in your pro
 	- [Videos/Podcasts](#videospodcasts)
 - [Tools](#tools)
   	- [Animation](#animation)
-	- [Audio](#audio)
+	- [Audio](#audio-tools)
   	- [Bitmap Compression](#bitmap-compression)
   	- [Character Generators](#character-generators)
-	- [Design Tools](#design-tools)
+	- [Design](#design-tools)
   	- [Modeling](#modeling)
   	- [Spritesheet](#spritesheet)
   	- [Terrain Generators](#terrain-generators)
@@ -51,9 +49,14 @@ Please remember to always look at the license before using something in your pro
   	- [Tile/Level Editors](#tilelevel-editors)
   	- [Vector/Image Editor](#vectorimage-editor)
   	- [Voxel Editors](#voxel-editors)
+- [Tutorials](#tutorials)
+	- [Developments](#development-tutorials)
+	- [Graphics](#graphic-tutorials)
+	- [Music](#music-tutorials)
 
-	Assets
-	--------
+
+Assets
+--------
 
 	### 2D Assets
 
@@ -94,8 +97,8 @@ Please remember to always look at the license before using something in your pro
 	* [Upando](http://upan.do/) - Marketplace with lots of resources for game developers. :triangular_flag_on_post:
 	* [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. :free:
 
-	Code
-	--------
+Code
+--------
 
 	### Ads and Monetization
 
@@ -229,23 +232,8 @@ Please remember to always look at the license before using something in your pro
 	* [SimCity](https://github.com/simhacker/micropolis) :o2:
 	* [Wolfenstein 3D](https://github.com/id-Software/wolf3d) :o2:
 
-	Design
-	--------
-
-	### Computer Graphics
-
-	* [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
-	* [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
-
-	### General Game Development
-
-	* [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
-	* [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
-	* [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
-	* [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
-	* [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
-	* [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
-	* [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+Design
+--------
 
 	### Idea Generators
 	* [Boardgamizer](http://www.boardgamizer.com) - Board Game Design Idea Generator. :free:
@@ -268,8 +256,8 @@ Please remember to always look at the license before using something in your pro
 	* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers :triangular_flag_on_post:
 	* [Trello](https://trello.com/) - Organize and prioritize projects :triangular_flag_on_post:
 
-	Meta
-	--------
+Meta
+--------
 
 	### Blogs and Portals
 
@@ -354,8 +342,8 @@ Please remember to always look at the license before using something in your pro
 	* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :o2:
 	* [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
-	Tools
-	--------
+Tools
+--------
 
 	### Animation
 
@@ -365,7 +353,7 @@ Please remember to always look at the license before using something in your pro
 	* [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash :o2:
 	* [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more. :o2:
 
-	### Audio
+	### Audio Tools
 
 	* [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds. :o2:
 	* [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
@@ -475,3 +463,25 @@ Please remember to always look at the license before using something in your pro
 	* [Q-Block](http://kyucon.com/qblock/)
 	* [Sproxel](http://sproxel.blogspot.com.br/)
 	* [VoxelShop](https://blackflux.com/index.php)
+	
+Tutorials
+--------
+	
+	### Development Tutorials
+
+	* [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
+	* [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
+	* [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
+	* [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
+	* [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
+	* [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
+	* [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+	
+	### Graphics Tutorials
+
+	* [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
+	* [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
+
+	### Music Tutorials
+	
+	*[How To Make Game Music with FL Studio](https://www.youtube.com/watch?v=pkvx-ipbmVg) Youtube vid by rm2kdev
