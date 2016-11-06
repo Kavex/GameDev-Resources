@@ -484,4 +484,4 @@ Tutorials
 
 	### Music Tutorials
 	
-	*[How To Make Game Music with FL Studio](https://www.youtube.com/watch?v=pkvx-ipbmVg) Youtube vid by rm2kdev
+	* [How To Make Game Music with FL Studio](https://www.youtube.com/watch?v=pkvx-ipbmVg) Youtube vid by rm2kdev
