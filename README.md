@@ -375,6 +375,7 @@ Tools
 
 * [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools :free:
 * [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms. :heavy_dollar_sign:
+* [Littera](http://kvazars.com/littera) - Bitmap font generator :free:
 * [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites :free:
 * [PNGoo](https://pngquant.org/) - Windows GUI for batch conversion. :free:
 * [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool. :o2:
