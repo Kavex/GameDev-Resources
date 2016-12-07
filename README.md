@@ -43,6 +43,7 @@ Please remember to always look at the license before using something in your pro
 	- [Character Generators](#character-generators)
 	- [Design](#design-tools)
 	- [Modeling](#modeling)
+	- [Pixel Editor](pixel-editor)
 	- [Spritesheet](#spritesheet)
 	- [Terrain Generators](#terrain-generators)
 	- [Texturing](#texturing)
@@ -412,6 +413,16 @@ Tools
 * [3ds Max](http://www.autodesk.com/products/3ds-max/overview) :heavy_dollar_sign:
 * [Clara.io](https://clara.io/) :triangular_flag_on_post:
 
+### Pixel Editor
+
+* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. :heavy_dollar_sign:
+* [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. :heavy_dollar_sign:
+* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. :o2:
+* [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine
+* [Pixie Engine](http://pixieengine.com/) - Free online pixel editor :free:
+* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX :o2:
+* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. :heavy_dollar_sign:
+
 ### Spritesheet
 
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool :o2:
@@ -448,17 +459,13 @@ Tools
 
 ### Vector/Image Editor
 
-* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. :heavy_dollar_sign:
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. :o2:
 * [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. :o2:
 * [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
 * [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. :free:
-* [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. :heavy_dollar_sign:
-* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. :o2:
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
-* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX :o2:
-* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. :heavy_dollar_sign:
+
 
 ### Voxel Editors
 
