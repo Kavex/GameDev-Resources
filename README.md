@@ -180,6 +180,7 @@ Code
 * [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework. :o2:
 * [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
+* [Open Mega Engine](https://github.com/rafaelcp/Open-Mega-Engine)
 * [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games. :o2:
 * [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
 * [Origamijs](http://origamijs.com/docs) - Lightweight Library to create using HTML5 Canvas.
@@ -353,7 +354,7 @@ Meta
 
 * [CompoHub](http://compohub.net/) - A compilation site of many game jams in a timeline.
 * [Game jams on itch.io](https://itch.io/jams) - Listing of itch.io game jams
-* [Game Off](https://gameoff.github.com) - GitHub's game jam :octocat:
+* [Game Off](https://gameoff.github.com) - GitHub's game jam 
 * [Indie Game Jams](http://www.indiegamejams.com/) - Listing of game jams
 * [Ludum Dare](http://ludumdare.com/) - very popular game jam
 * [One Hour Game Jam](http://onehourgamejam.com/) - Weekly 1 hour game jam
@@ -498,7 +499,7 @@ Tools
 
 ### Voxel Editors
 
-* [goxel](https://github.com/guillaumechereau/goxel) :o2:
+* [goxel](https://github.com/guillaumechereau/goxel) - Open source 3D voxel editor :o2:
 * [MagicaVoxel](http://voxel.codeplex.com/)
 * [Q-Block](http://kyucon.com/qblock/)
 * [Sproxel](http://sproxel.blogspot.com.br/)
@@ -511,13 +512,13 @@ Tutorials
 
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Simple HTML canvas RPG looking game :free:
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255) - HTML5 Game Development by Google :free:
-* [Udacity: Make a Unity 2D Physics Game - For Beginners!](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/) - Unity 2D Physics :free:
+* [Udemy: Make a Unity 2D Physics Game - For Beginners!](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/) - Unity 2D Physics :free:
 
 ### Graphics/Modeling Tutorials
 
 * [Coursera: Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) :free:
 * [Udacity: Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Interactive 3D Graphics by Google :free:
-* [Udacity: The Complete Blender Creator Course](https://www.udemy.com/blendertutorial/) High quality Blender 3D tutorial for all levels :heavy_dollar_sign:
+* [Udemy: The Complete Blender Creator Course](https://www.udemy.com/blendertutorial/) High quality Blender 3D tutorial for all levels :heavy_dollar_sign:
 
 ### Music Tutorials
 
@@ -526,3 +527,4 @@ Tutorials
 ### Programming Tutorials
 
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) :free:
+* [Udemy: Fundamentals of Programming](https://www.udemy.com/fundamentals-of-programming/)
