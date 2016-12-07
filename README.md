@@ -43,7 +43,7 @@ Please remember to always look at the license before using something in your pro
 	- [Character Generators](#character-generators)
 	- [Design](#design-tools)
 	- [Modeling](#modeling)
-	- [Pixel Editor](pixel-editor)
+	- [Pixel Editor](#pixel-editor)
 	- [Spritesheet](#spritesheet)
 	- [Terrain Generators](#terrain-generators)
 	- [Texturing](#texturing)
@@ -51,9 +51,10 @@ Please remember to always look at the license before using something in your pro
 	- [Vector/Image Editor](#vectorimage-editor)
 	- [Voxel Editors](#voxel-editors)
 - [Tutorials](#tutorials)
-	- [Developments](#development-tutorials)
+	- [Game Development](#game-development-tutorials)
 	- [Graphics](#graphic-tutorials)
 	- [Music](#music-tutorials)
+    - [Programming](#programming-tutorials)
 
 
 Assets
@@ -227,6 +228,7 @@ with AWS and Twitch – with full source.
 * [Doom 3](https://github.com/id-Software/DOOM-3) :o2:
 * [Doom](https://github.com/id-Software/DOOM) :o2:
 * [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) :free:
+* [HandmadeHero: making 2D game from scratch](https://handmadehero.org/) :heavy_dollar_sign:
 * [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) :o2:
 * [Quake 2](https://github.com/id-Software/Quake-2) :o2:
 * [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) :o2:
@@ -342,7 +344,9 @@ Meta
 ### Videos/Podcasts
 
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :o2:
+* [TheChernoProject](https://www.youtube.com/user/TheChernoProject) - TheChernoProject youtube channel
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
+
 
 Tools
 --------
@@ -418,7 +422,7 @@ Tools
 * [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. :heavy_dollar_sign:
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. :heavy_dollar_sign:
 * [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. :o2:
-* [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine
+* [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine :free:
 * [Pixie Engine](http://pixieengine.com/) - Free online pixel editor :free:
 * [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX :o2:
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. :heavy_dollar_sign:
@@ -461,7 +465,7 @@ Tools
 
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. :o2:
 * [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. :o2:
-* [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters.
+* [Krita](https://krita.org/) - Krita is a KDE program for sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters. :o2:
 * [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. :free:
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
@@ -478,21 +482,22 @@ Tools
 Tutorials
 --------
 
-### Development Tutorials
+### Game Development Tutorials
 
-* [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
-* [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
-* [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
-* [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
-* [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
-* [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
-* [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
+* [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Simple HTML canvas RPG looking game :free:
+* [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255) - HTML5 Game Development by Google :free:
+* [Udacity: Make a Unity 2D Physics Game - For Beginners!](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/) - Unity 2D Physics :free:
 
-### Graphics Tutorials
+### Graphics/Modeling Tutorials
 
-* [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
-* [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
+* [Udacity: Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Interactive 3D Graphics by Google :free:
+* [Coursera: Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) :free:
+* [Udacity: The Complete Blender Creator Course](https://www.udemy.com/blendertutorial/) High quality Blender 3D tutorial for all levels :heavy_dollar_sign:
 
 ### Music Tutorials
 
-* [How To Make Game Music with FL Studio](https://www.youtube.com/watch?v=pkvx-ipbmVg) Youtube vid by rm2kdev
+* [How To Make Game Music with FL Studio](https://www.youtube.com/watch?v=pkvx-ipbmVg) Youtube vid by rm2kdev :free:
+
+### Programming Tutorials
+
+* [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) :free:
