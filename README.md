@@ -436,12 +436,12 @@ Tools
 
 ### Modeling
 
-* [Blender](http://www.blender.org/) :o2:
-* [MakeHuman](http://www.makehuman.org/) :o2:
+* [Blender](http://www.blender.org/) - free and open source 3D creation suite :o2:
+* [MakeHuman](http://www.makehuman.org/) - free and open source software to create realistic 3d humans :o2:
 * [sculptris](http://pixologic.com/sculptris/) :free:
-* [Maya](http://www.autodesk.com/products/maya/overview) :heavy_dollar_sign:
-* [3ds Max](http://www.autodesk.com/products/3ds-max/overview) :heavy_dollar_sign:
-* [Clara.io](https://clara.io/) :triangular_flag_on_post:
+* [Maya](http://www.autodesk.com/products/maya/overview) Industry animation software :heavy_dollar_sign:
+* [3ds Max](http://www.autodesk.com/products/3ds-max/overview) Industry modeling software :heavy_dollar_sign:
+* [Clara.io](https://clara.io/) - Start creating, rendering and sharing 3D :triangular_flag_on_post:
 
 ### Pixel Editor
 
@@ -502,7 +502,7 @@ Tools
 * [goxel](https://github.com/guillaumechereau/goxel) - Open source 3D voxel editor :o2:
 * [MagicaVoxel](http://voxel.codeplex.com/) - free lightweight 8-bit voxel editor and interactive path tracing renderer :free:
 * [Sproxel](https://code.google.com/archive/p/sproxel/) - 3d interface designed to let the user quickly create and edit voxel-based 3d models :free:
-* [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects :02:
+* [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects :o2:
 
 Tutorials
 --------
