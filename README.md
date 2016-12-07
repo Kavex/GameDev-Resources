@@ -500,10 +500,9 @@ Tools
 ### Voxel Editors
 
 * [goxel](https://github.com/guillaumechereau/goxel) - Open source 3D voxel editor :o2:
-* [MagicaVoxel](http://voxel.codeplex.com/)
-* [Q-Block](http://kyucon.com/qblock/)
-* [Sproxel](http://sproxel.blogspot.com.br/)
-* [VoxelShop](https://blackflux.com/index.php)
+* [MagicaVoxel](http://voxel.codeplex.com/) - free lightweight 8-bit voxel editor and interactive path tracing renderer :free:
+* [Sproxel](https://code.google.com/archive/p/sproxel/) - 3d interface designed to let the user quickly create and edit voxel-based 3d models :free:
+* [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects :02:
 
 Tutorials
 --------
