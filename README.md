@@ -25,7 +25,7 @@ Please remember to always look at the license before using something in your pro
 	- [Engines and Frameworks](#engines-and-frameworks)
 		- [2D](#2d)
 		- [3D](#3d)
-	- [Game Source Code](#game-source-code)
+    - [Game Source Code](#game-source-code)
 - [Design](#design)
 	- [Idea Generators](#idea-generators)
 	- [Marketing](#marketing)
@@ -137,9 +137,10 @@ Code
 * [Vungle](https://vungle.com/) - Video Ads service.
 
 ### Engines and Frameworks
+
 #### 2D
 
-* [Agen](http://2dengine.com) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
+* [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. :o2:
 * [AndEngine](http://www.andengine.org) - 2D Android Game Engine :o2:
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games. :o2:
@@ -290,15 +291,11 @@ Meta
 
 ### Blogs and Portals
 
-* [Amit's Game Programming](http://www-cs-students.stanford.edu/~amitp/gameprog.html)
-* [BigSushi](http://www.bigsushi.fm/)
-* [Designer Notes](http://www.designer-notes.com/)
-* [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
-* [Extraguy](http://www.extraguy.com/)
-* [Gamasutra](http://www.gamasutra.com/)
-* [Game Development on StackExchange](http://gamedev.stackexchange.com/)
-* [GameDev](http://www.gamedev.net/page/index.html)
-* [GameDevs.org](http://gamedevs.org/)
+* [Designer Notes](http://www.designer-notes.com/) - Soren Johnson's Game Design Journal :free:
+* [Gamasutra](http://www.gamasutra.com/) - The Art & Business of Making Games :ree:
+* [Game Development on StackExchange](http://gamedev.stackexchange.com/) - Game Development Stack Exchange :free:
+* [GameDev](http://www.gamedev.net/page/index.html) - Game Development Community :free:
+* [GameDevs.org](http://gamedevs.org/) -  various topics relating to game development :free:
 * [GameJolt](http://gamejolt.com/)
 * [GameMarketeers](http://www.gamemarketeers.com/)
 * [Greenlit Gaming](http://greenlitgaming.com/)
@@ -369,8 +366,9 @@ Meta
 ### Videos/Podcasts
 
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :o2:
-* [TheChernoProject](https://www.youtube.com/user/TheChernoProject) - TheChernoProject youtube channel
-* [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
+* [BigSushi](http://www.bigsushi.fm/) - BigSushi GameDev Podcast :free:
+* [TheChernoProject](https://www.youtube.com/user/TheChernoProject) - TheChernoProject youtube channel :free:
+* [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams :free:
 
 
 Tools
