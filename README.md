@@ -456,8 +456,11 @@ Tools
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool :o2:
 * [GlueIT](https://github.com/Kavex/GlueIT) Free Simple Spritesheet Tool :free:
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use. :heavy_dollar_sign:
+* [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases :free:
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx :o2:
 * [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. :free:
+* [Sprite Generator](https://spritegenerator.codeplex.com/) - O-tree based rectangle sprite packing :free: 
+* [Sprite Sheet Packer](https://spritesheetpacker.codeplex.com) - fully featured tool for combining multiple individual images into a single, efficiently laid out image :free:
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets :free:
 * [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator :o2:
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. :heavy_dollar_sign:
@@ -525,4 +528,4 @@ Tutorials
 
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) :free:
 * [Udemy: Fundamentals of Programming](https://www.udemy.com/fundamentals-of-programming/) - boring theory that YOU NEED if you want to make solid games and apps - Swift , C# Unity3D :free:
-* [Udemy: Learn to program Tic Tac Toe Game in Visual C++ on Windows](https://www.udemy.com/learn-to-program-tic-tac-toe-in-visual-c-on-windows/) Learn Visual C++ and use it to make a tic tac toe :free: 
+* [Udemy: Learn to program Tic Tac Toe Game in Visual C++ on Windows](https://www.udemy.com/learn-to-program-tic-tac-toe-in-visual-c-on-windows/) Learn Visual C++ and use it to make a tic tac toe :free:
