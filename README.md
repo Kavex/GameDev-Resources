@@ -306,7 +306,6 @@ Meta
 * [Indius](http://indius.org/)
 * [Java Gaming](http://www.java-gaming.org/)
 * [Lost Garden](http://www.lostgarden.com/)
-* [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
