@@ -89,7 +89,7 @@ Assets
 <details>
 	<summary>(Click to expand)</summary>
 
-* [Gamesounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds. :free:
+* [GameSounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds. :free:
 * [FreePD](http://freepd.com/) - Public Domain Music :free:
 * [FreeSFX](http://www.freesfx.co.uk/) - free sound effects :free:
 * [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds :free:
