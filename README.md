@@ -228,6 +228,7 @@ Code
 * [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine  :o2:
 * [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine :free:
 * [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
+* [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software :heavy_dollar_sign:
 * [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 * [Three.js](http://threejs.org/) - Javascript 3D Library.
 * [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
