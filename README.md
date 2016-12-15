@@ -412,6 +412,7 @@ Tools
 * [FamiTracker](http://famitracker.com/) - Produce music for the NES/Famicom-systems.
 * [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
 * [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
+* [LMMS](https://lmms.io/) - digital audio workstation software :o2:
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
 * [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer :o2:
 * [PulseBoy](http://www.pulseboy.com/) web-based musical sequencer which only uses 8bit sounds and samples :free:
