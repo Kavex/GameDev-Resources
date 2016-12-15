@@ -415,8 +415,9 @@ Tools
 * [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 * [LMMS](https://lmms.io/) - digital audio workstation software :o2:
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-* [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer :o2:
+* [Musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer :o2:
 * [PulseBoy](http://www.pulseboy.com/) web-based musical sequencer which only uses 8bit sounds and samples :free:
+* [Rosegarden](http://www.rosegardenmusic.com/) - music composition and editing environmen :o2:
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. :o2:
 * [Soundation](https://soundation.com/) - Online Professional music studio.
 * [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
