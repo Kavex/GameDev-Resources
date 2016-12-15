@@ -190,7 +190,8 @@ Code
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 * [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. :free:
 * [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library. :free:
-* [Solarus](http://www.solarus-games.org/) a free and open-source Action-RPG (Zelda) game engine 
+* [Solarus](http://www.solarus-games.org/) a free and open-source Action-RPG (Zelda) game engine :free:
+* [SpriteBuilder](http://www.spritebuilder.com/) - Open Source Game Development Suite for MacOS :o2:
 * [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
 * [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 * [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
