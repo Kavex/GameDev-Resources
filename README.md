@@ -89,8 +89,9 @@ Assets
 <details>
 	<summary>(Click to expand)</summary>
 
-* [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds. :free:
+* [Gamesounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds. :free:
 * [FreePD](http://freepd.com/) - Public Domain Music :free:
+* [FreeSFX](http://www.freesfx.co.uk/) - free sound effects :free:
 * [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds :free:
 * [Musopen](https://musopen.org/) - Royalty free music. :free:
 * [Nameless: the Hackers RPG Soundtrack](https://boxcat.bandcamp.com/album/nameless-the-hackers-rpg-soundtrack) - high-quality by BoxCat Games :heavy_dollar_sign:
