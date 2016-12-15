@@ -90,6 +90,7 @@ Assets
 	<summary>(Click to expand)</summary>
 
 * [Free Game Sounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds.
+* [FreePD](http://freepd.com/) - Public Domain Music
 * [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds.
 * [LaptopNoise](http://www.laptopnoise.com/freeglitch.htm) - Large collection of random 'glitchy' computer effects free for use.
 * [Musopen](https://musopen.org/) - Royalty free music.
@@ -598,4 +599,4 @@ A selection of major game studios, publishers, etc. using GitHub:
 [<img src="https://github.com/ccpgames.png" title="CCP Games" height="50">](https://github.com/ccpgames)&nbsp;
 <br>
 
-* [More games on Github](https://github.com/leereilly/games/) 
+* [More games on Github](https://github.com/leereilly/games/)
