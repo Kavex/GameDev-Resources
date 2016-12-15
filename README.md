@@ -224,6 +224,7 @@ Code
 * [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 * [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
 * [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine  :o2:
+* [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine :free:
 * [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
 * [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 * [Three.js](http://threejs.org/) - Javascript 3D Library.
@@ -237,7 +238,7 @@ Code
 * [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
-with AWS and Twitch – with full source.
+
 </details>
 
 ### Game Source Code
@@ -470,7 +471,8 @@ Tools
 ### Pixel Editor
 <details>
 	<summary>(Click to expand)</summary>
-* [Aseprite](http://www.aseprite.org/) - animated sprite editor & pixel art tool. :heavy_dollar_sign:
+* [Aseprite](http://www.aseprite.org/) - Animated sprite editor & pixel art tool :heavy_dollar_sign:
+* [Hexels](https://www.marmoset.co/hexels/) - intuitive 2D, grid-based painting tool  :heavy_dollar_sign:
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. :heavy_dollar_sign:
 * [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. :o2:
 * [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine :free:
