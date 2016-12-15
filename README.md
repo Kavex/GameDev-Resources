@@ -402,7 +402,8 @@ Tools
 ### Audio Tools
 <details>
 	<summary>(Click to expand)</summary>
-* [Audacity](http://sourceforge.net/projects/audacity/) - open source, cross-platform software for recording and editing sounds. :o2:
+* [Ardour](http://ardour.org/) - A multichannel digital audio workstation :o2:
+* [Audacity](http://sourceforge.net/projects/audacity/) - cross-platform software for recording and editing sounds. :o2:
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [BeepBox](http://www.beepbox.co/) - online tool for sketching and sharing chiptune melodies :free:
