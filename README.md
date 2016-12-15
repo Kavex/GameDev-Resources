@@ -454,6 +454,7 @@ Tools
 <details>
 	<summary>(Click to expand)</summary>
 * [Atom](https://atom.io/) Highly customizable open source text editor :o2:
+* [Eclipse](https://eclipse.org/) - integrated development environment mainly used for Java :free:
 * [Notepad++](https://notepad-plus-plus.org/) Notepad replacement that supports several languages. :o2:
 * [Sublime Text](http://www.sublimetext.com/) Sophisticated text editor for code, markup and prose. :heavy_dollar_sign:
 * [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE :free:
