@@ -93,6 +93,7 @@ Assets
 * [FreePD](http://freepd.com/) - Public Domain Music :free:
 * [FreeSFX](http://www.freesfx.co.uk/) - free sound effects :free:
 * [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds :free:
+* [Kavex's GameSounds](https://github.com/Kavex/GameSounds) - Free sounds for any use :free:
 * [Musopen](https://musopen.org/) - Royalty free music. :free:
 * [Nameless: the Hackers RPG Soundtrack](https://boxcat.bandcamp.com/album/nameless-the-hackers-rpg-soundtrack) - high-quality by BoxCat Games :heavy_dollar_sign:
 * [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds, handmade for iOS. :free1:
