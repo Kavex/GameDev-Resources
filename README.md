@@ -406,19 +406,20 @@ Tools
 <details>
 	<summary>(Click to expand)</summary>
 * [Ardour](http://ardour.org/) - A multichannel digital audio workstation :o2:
+* [as3sfxr](http://www.superflashbros.net/as3sfxr/) - Generating sound effects :free:
 * [Audacity](http://sourceforge.net/projects/audacity/) - cross-platform software for recording and editing sounds. :o2:
 * [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
 * [Audiotool](http://www.audiotool.com/app) - Online music producer.
 * [BeepBox](http://www.beepbox.co/) - online tool for sketching and sharing chiptune melodies :free:
 * [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
 * [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. :free:
-* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator
-* [FamiTracker](http://famitracker.com/) - Produce music for the NES/Famicom-systems.
+* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator :free:
+* [FamiTracker](http://famitracker.com/) - Produce music for the NES/Famicom-systems :free:
 * [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
 * [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 * [LMMS](https://lmms.io/) - digital audio workstation software :o2:
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-* [Musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer :o2:
+* [Musagi](http://www.drpetter.se/project_musagi.html) - fairly large and sophisticated music editor and synthesizer :o2:
 * [PulseBoy](http://www.pulseboy.com/) web-based musical sequencer which only uses 8bit sounds and samples :free:
 * [Rosegarden](http://www.rosegardenmusic.com/) - music composition and editing environmen :o2:
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. :o2:
