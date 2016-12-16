@@ -69,7 +69,7 @@ Assets
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use. :free:
 * [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets :heavy_dollar_sign:
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games. :free:
-* [HasGraphics](http://hasgraphics.com/free-sprites/) = free sprites available for commercial and non-commercial games. :free:
+* [HasGraphics](http://hasgraphics.com/free-sprites/) - free sprites available for commercial and non-commercial games. :free:
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. :free:
 * [Kenny Assets](http://kenney.nl/assets) - Royalty free assets :triangular_flag_on_post:
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. :free:
@@ -503,6 +503,7 @@ Tools
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use. :heavy_dollar_sign:
 * [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases :free:
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx :o2:
+* [MakeAtlas](http://www.skn3.com/junk/makeatlas/makeatlas1.12.zip) - Simple tool to pack a texture atlas :free:
 * [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. :free:
 * [Sprite Generator](https://spritegenerator.codeplex.com/) - O-tree based rectangle sprite packing :free: 
 * [Sprite Sheet Packer](https://spritesheetpacker.codeplex.com) - fully featured tool for combining multiple individual images into a single, efficiently laid out image :free:
