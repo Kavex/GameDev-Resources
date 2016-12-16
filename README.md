@@ -66,7 +66,9 @@ Assets
 	<summary>(Click to expand)</summary>
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file. :free:
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use. :free:
+* [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets :heavy_dollar_sign:
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games. :free:
+* [HasGraphics](http://hasgraphics.com/free-sprites/) = free sprites available for commercial and non-commercial games. :free:
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. :free:
 * [Kenny Assets](http://kenney.nl/assets) - Royalty free assets :triangular_flag_on_post:
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. :free:
