@@ -588,9 +588,10 @@ Tutorials
 ### Programming Tutorials
 <details>
 	<summary>(Click to expand)</summary>
+* [Coursera: Beginning Game Programming with C#](https://www.coursera.org/learn/game-programming) :free:
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) :free:
-* [Udemy: Fundamentals of Programming](https://www.udemy.com/fundamentals-of-programming/) - boring theory that YOU NEED if you want to make solid games and apps - Swift , C# Unity3D :free:
-* [Udemy: Learn to program Tic Tac Toe Game in Visual C++ on Windows](https://www.udemy.com/learn-to-program-tic-tac-toe-in-visual-c-on-windows/) Learn Visual C++ and use it to make a tic tac toe :free:
+* [Udemy: Fundamentals of Programming](https://www.udemy.com/fundamentals-of-programming/) :free:
+* [Udemy: Learn to program Tic Tac Toe Game in Visual C++ on Windows](https://www.udemy.com/learn-to-program-tic-tac-toe-in-visual-c-on-windows/) :free:
 </details>
 
 --------
