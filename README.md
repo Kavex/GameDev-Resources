@@ -64,6 +64,7 @@ Assets
 ### 2D Assets
 <details>
 	<summary>(Click to expand)</summary>
+    
 * [2D Cartoon Mobile Game UI Pack](http://graphicburger.com/mobile-game-gui/) - cartoon user interface asset pack. It comes as a layered psd file. :free:
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use. :free:
 * [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets :heavy_dollar_sign:
@@ -80,7 +81,6 @@ Assets
 ### 3D Assets
 <details>
 	<summary>(Click to expand)</summary>
-
 * [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects :free:
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. :free:
 * [TextureKing](http://www.textureking.com/) - Free realistic meterial stock textures  :free:
@@ -90,7 +90,6 @@ Assets
 ### Audio Assets
 <details>
 	<summary>(Click to expand)</summary>
-
 * [GameSounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds. :free:
 * [FreePD](http://freepd.com/) - Public Domain Music :free:
 * [FreeSFX](http://www.freesfx.co.uk/) - free sound effects :free:
@@ -277,9 +276,10 @@ Design
 * [Video Game Name Generator](https://videogamena.me) Randomized video games names :free:
 </details>
 
-### Marketing
+### Marketing and PR
 <details>
 	<summary>(Click to expand)</summary>
+* [A Guide to Launching Indie Games](http://www.binpress.com/blog/2015/02/06/indie-game-launch-guide-pre-launch/) - successful launch strategy for Indie Games :free: 
 * [Gamebrief](http://www.metkis.com/gamebrief/index.html) Focus development of your game with 10 questions. :free:
 </details>
 
@@ -388,7 +388,6 @@ Meta
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject) - TheChernoProject youtube channel :free:
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams :free:
 </details>
-
 
 Tools
 --------
