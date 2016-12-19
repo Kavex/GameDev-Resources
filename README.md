@@ -153,7 +153,7 @@ Code
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3. :o2:
-* [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features. :triangular_flag_on_post:
+* [GameMaker](http://www.yoyogames.com/studio) - 2D Game Engine :triangular_flag_on_post:
 * [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [Gideros](http://giderosmobile.com/) - Mobile Cross-Platform framework using Lua programming language. :o2:
 * (Gosu)(https://www.libgosu.org/) - 2D game development library for Ruby and C++ :o2:
@@ -576,6 +576,7 @@ Tutorials
 <details>
 	<summary>(Click to expand)</summary>
 * [Coursera: Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) :free:
+* [Pixel Art Tutorial Basics for Beginners](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
 * [Udacity: Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Interactive 3D Graphics by Google :free:
 * [Udemy: The Complete Blender Creator Course](https://www.udemy.com/blendertutorial/) High quality Blender 3D tutorial for all levels :heavy_dollar_sign:
 </details>
