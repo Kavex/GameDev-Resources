@@ -432,6 +432,7 @@ Tools
 <details>
 	<summary>(Click to expand)</summary>
 * [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools :free:
+* [Image Asset Generation Photoshop plug-in](https://github.com/adobe-photoshop/generator-assets) — Easy export layers to files. :o2:
 * [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms. :heavy_dollar_sign:
 * [Littera](http://kvazars.com/littera) - Bitmap font generator :free:
 * [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites :free:
