@@ -578,6 +578,7 @@ Tutorials
 <details>
 	<summary>(Click to expand)</summary>
 * [Coursera: Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) :free:
+* [How to make 2D Game Tilesets - Setup & The Basics](https://www.youtube.com/watch?v=MFvsRvo_78Y) Youtube vid by ORIANART
 * [Pixel Art Tutorial Basics for Beginners](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
 * [Udacity: Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Interactive 3D Graphics by Google :free:
 * [Udemy: The Complete Blender Creator Course](https://www.udemy.com/blendertutorial/) High quality Blender 3D tutorial for all levels :heavy_dollar_sign:
