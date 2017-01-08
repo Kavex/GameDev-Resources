@@ -22,9 +22,10 @@ Please remember to always look at the license before using something in your pro
 	- [Multiple Graphic Collections](#multiple-graphic-collections)
 - [Code](#code)
 	- [Ads and Monetization](#ads-and-monetization)
+	- [AI](#ai)
 	- [2D Engines and Frameworks](#2d-engines-and-frameworks)
 	- [3D Engines and Frameworks](#3d-engines-and-frameworks)
-    - [Game Source Code](#game-source-code)
+   	- [Game Source Code](#game-source-code)
 - [Design](#design)
 	- [Idea Generators](#idea-generators)
 	- [Marketing](#marketing)
@@ -54,7 +55,7 @@ Please remember to always look at the license before using something in your pro
 	- [Game Development](#game-development-tutorials)
 	- [Graphics/Modeling](#graphimodelingc-tutorials)
 	- [Music](#music-tutorials)
-    - [Programming](#rogramming-tutorials)
+	- [Programming](#rogramming-tutorials)
 
 --------
 
@@ -128,6 +129,12 @@ Code
 * [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
 * [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
 * [Vungle](https://vungle.com/) - Video Ads service.
+</details>
+
+### AI
+<details>
+	<summary>(Click to expand)</summary>
+* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger :o2:
 </details>
 
 ### 2D Engines and Frameworks
