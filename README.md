@@ -53,9 +53,9 @@ Please remember to always look at the license before using something in your pro
 	- [Voxel Editors](#voxel-editors)
 - [Tutorials](#tutorials)
 	- [Game Development](#game-development-tutorials)
-	- [Graphics/Modeling](#graphimodelingc-tutorials)
+	- [Graphics/Modeling](#graphicsmodeling-tutorials)
 	- [Music](#music-tutorials)
-	- [Programming](#rogramming-tutorials)
+	- [Programming](#programming-tutorials)
 
 --------
 
