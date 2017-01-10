@@ -1,11 +1,8 @@
 :checkered_flag: Link Checker: [![Build Status](https://travis-ci.org/Kavex/GameDev-Resources.svg?branch=master)](https://travis-ci.org/Kavex/GameDev-Resources)
 
+<a href="https://github.com/Kavex/GameDev-Resources"> <img src="https://img.shields.io/badge/%F0%9F%8E%AE-GameDev%20Resources-green.svg?colorA=0099ff"> </a> <a href="https://github.com/Kavex/Unity3D-Resources"> <img src="https://img.shields.io/badge/%F0%9F%8E%AE-Unity3D%20Resources-green.svg?colorA=0099ff"> </a>
 
-<h1 align="center">
-<br>
-<img width="300" src="/img/controller.png" alt="awesome">
-<br>
-</h1>
+<h1 align="center"> <br> <img width="300" src="/img/controller.png" alt="GameDev Resources"> <br> </h1>
 
 :heavy_dollar_sign: = Paid,
 :triangular_flag_on_post: = Limited Free,
