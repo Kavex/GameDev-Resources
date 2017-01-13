@@ -515,6 +515,7 @@ Tools
 * [Sprite Generator](https://spritegenerator.codeplex.com/) - O-tree based rectangle sprite packing :free: 
 * [Sprite Sheet Packer](https://spritesheetpacker.codeplex.com) - fully featured tool for combining multiple individual images into a single, efficiently laid out image :free:
 * [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets :free:
+* [SpriteUV2](https://www.spriteuv.com/) - tool for creating optimal meshes for textures/sprites and packing them into an atlas. :triangular_flag_on_post:
 * [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator :o2:
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. :heavy_dollar_sign:
 </details>
