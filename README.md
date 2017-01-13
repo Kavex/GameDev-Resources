@@ -270,6 +270,12 @@ Code
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) :o2:
 </details>
 
+### Modules and additional API
+<details open>
+	<summary>(Click to collapse or expand category)</summary>
+* [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer :free:
+* [snex.io](http://snex.io/) - Add controller support using broswer :o2:
+</details>
 Design
 --------
 
