@@ -203,7 +203,8 @@ Code
 * [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 * [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
 * [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
-* [TIC - Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
+* [Tilengine](http://www.tilengine.org/) - C Engine with wrappers for C#, Python and Java :o2:
+* [Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
 * [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 * [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :o2:
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library :o2:
