@@ -152,6 +152,7 @@ Code
 * [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
 * [Defold](http://www.defold.com/) 2D game engine by King :free:
 * [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
+* [EasyRPG](https://easyrpg.org/) - role playing game creation tool compatible with RPG Maker 2000/2003 games
 * [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go. :o2:
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. :o2:
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
