@@ -289,6 +289,7 @@ Design
 	<summary>(Click to collapse or expand category)</summary>
 * [A Guide to Launching Indie Games](http://www.binpress.com/blog/2015/02/06/indie-game-launch-guide-pre-launch/) - successful launch strategy for Indie Games :free: 
 * [Gamebrief](http://www.metkis.com/gamebrief/index.html) Focus development of your game with 10 questions. :free:
+* [Yunoia](httyunoiaps://www.yunoia.com/) - Online Publishers/Marketing :free:
 </details>
 
 ### Mechanics
