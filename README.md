@@ -19,7 +19,6 @@ Please remember to always look at the license before using something in your pro
 	- [Multiple Graphic Collections](#multiple-graphic-collections)
 - [Code](#code)
 	- [Ads and Monetization](#ads-and-monetization)
-	- [AI](#ai)
 	- [2D Engines and Frameworks](#2d-engines-and-frameworks)
 	- [3D Engines and Frameworks](#3d-engines-and-frameworks)
    	- [Game Source Code](#game-source-code)
@@ -127,12 +126,6 @@ Code
 * [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
 * [Unity Ads](https://unity3d.com/pt/services/ads) - Unity3D Official Ads SDK.
 * [Vungle](https://vungle.com/) - Video Ads service.
-</details>
-
-### AI
-<details open>
-	<summary>(Click to collapse or expand category)</summary>
-* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger :o2:
 </details>
 
 ### 2D Engines and Frameworks
@@ -276,6 +269,7 @@ Code
 	<summary>(Click to collapse or expand category)</summary>
 * [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer :free:
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library :o2:
+* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger :o2:
 * [snex.io](http://snex.io/) - Add controller support using broswer :o2:
 </details>
 Design
@@ -306,6 +300,7 @@ Design
 ### Project Management
 <details open>
 	<summary>(Click to collapse or expand category)</summary>
+* [Asana](http://www.asana.com) - Free cloud project Management :triangular_flag_on_post:
 * [Casual](https://casual.pm/) - Visual Project Management :heavy_dollar_sign:
 * [HacknPlan](http://hacknplan.com/) - Project management for game developers :triangular_flag_on_post:
 * [Taiga](https://taiga.io/) - Project management platform for agile developers & designers :triangular_flag_on_post:
@@ -319,7 +314,7 @@ Meta
 <details open>
 	<summary>(Click to collapse or expand category)</summary>
 * [Designer Notes](http://www.designer-notes.com/) - Soren Johnson's Game Design Journal :free:
-* [Gamasutra](http://www.gamasutra.com/) - The Art & Business of Making Games :ree:
+* [Gamasutra](http://www.gamasutra.com/) - The Art & Business of Making Games :free:
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/) - Game Development Stack Exchange :free:
 * [GameDev](http://www.gamedev.net/page/index.html) - Game Development Community :free:
 * [GameDevs.org](http://gamedevs.org/) -  various topics relating to game development :free:
