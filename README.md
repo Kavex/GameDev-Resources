@@ -303,6 +303,7 @@ Design
 	<summary>(Click to collapse or expand category)</summary>
 * [Asana](http://www.asana.com) - Free cloud project Management :triangular_flag_on_post:
 * [Casual](https://casual.pm/) - Visual Project Management :heavy_dollar_sign:
+* [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games :heavy_dollar_sign:
 * [HacknPlan](http://hacknplan.com/) - Project management for game developers :triangular_flag_on_post:
 * [Taiga](https://taiga.io/) - Project management platform for agile developers & designers :triangular_flag_on_post:
 * [Trello](https://trello.com/) - Organize and prioritize projects :triangular_flag_on_post:
