@@ -103,7 +103,6 @@ Assets
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. :free:
 * [PlainTextures](http://www.plaintextures.com/) -  Free high resolution textures, brushes and photos :free:
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models. :triangular_flag_on_post:
-* [Upando](http://upan.do/) - Marketplace with lots of resources for game developers. :triangular_flag_on_post:
 * [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. :free:
 
 
@@ -179,7 +178,6 @@ Code
 * [Processing](https://www.processing.org/) - Processing is a programming language, development environment for artists, designers, researchers.
 * [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 * [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python. :free:
-* [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
 * [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games. :heavy_dollar_sign:
 * [Ren'Py](http://www.renpy.org/) - visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS :o2:
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
@@ -512,7 +510,6 @@ Tools
 
 ### Tile/Level Editors
 
-* [ArrayPainter](http://www.arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
 * [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor. :o2:
 * [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy. :o2:
 * [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor. :free:
@@ -522,7 +519,6 @@ Tools
 ### Vector/Image Editor
 
 * [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. :o2:
-* [Inkscape](https://inkscape.org/en/) - An open-source vector graphics editor similar to Adobe Illustrator, Corel Draw, Freehand, or Xara X. :o2:
 * [Krita](https://krita.org/) - Sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters. :o2:
 * [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. :free:
