@@ -1,6 +1,9 @@
 language: python
+python:
+    - "3.5"
+    - "3.6"
 before_script:
-  - pip install -U vl
+  - pip install git+git://github.com/kavex/vl.git@py3
   - vl --version
 script:
-  - vl README.md -t 5 --debug -w apple.com,vungle.com,renderhjs.net,waveengine.net,famitracker.com,visualstudio.com,autodesk.com,textures.com -a 503,405,401,429,502,403
+  - vl README.md --debug -w apple.com,vungle.com,renderhjs.net,waveengine.net,famitracker.com,visualstudio.com,autodesk.com,textures.com -a 503,405,401,429,502,403
