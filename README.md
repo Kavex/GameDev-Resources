@@ -438,7 +438,6 @@ Tools
 
 ### Design Tools
 
-* [10xGDD](http://pixelatto.com/10xgdd/) A fun-centric design brief template for your game designs. :free:
 * [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content. :heavy_dollar_sign:
 * [Dundoc](http://www.dundoc.com/) Game Design starter Template :free:
 * [plotbot](http://www.plotbot.com/) Write screenplays in your browser. :free:
@@ -498,7 +497,6 @@ Tools
 
 ### Terrain Generators
 
-* [Artifex Terra](http://www.artifexterra.com/) - Terrain editor for easy and sophisticated landscape painting and editing :free:
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively :free:
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
 * [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D terrain generator
@@ -515,7 +513,6 @@ Tools
 ### Tile/Level Editors
 
 * [ArrayPainter](http://www.arraypainter.com/) -  Array Painter is the easiest and fastest way to make 2D arrays ready for copy pasting into your own program.
-* [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains. :heavy_dollar_sign:
 * [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor. :o2:
 * [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy. :o2:
 * [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor. :free:
