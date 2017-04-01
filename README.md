@@ -472,7 +472,7 @@ Tools
 * [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. :o2:
 * [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine :free:
 * [Pixie Engine](http://pixieengine.com/) - Free online pixel editor :free:
-* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX :o2:
+* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX (Warning: Doesn't support custom gif palettes) :o2:
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. :heavy_dollar_sign:
 
 
@@ -523,6 +523,8 @@ Tools
 * [Ormr](http://thebloomapp.com) - Ormr is a fast, light-weight, cross-platform procedural graphics editor.
 * [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. :free:
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software, easy to use and fast :heavy_dollar_sign:
+* [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional photo editing software :heavy_dollar_sign:
 
 
 ### Voxel Editors
