@@ -48,6 +48,7 @@ Please remember to always look at the license before using something in your pro
 	- [Tile/Level Editors](#tilelevel-editors)
 	- [Vector/Image Editor](#vectorimage-editor)
 	- [Voxel Editors](#voxel-editors)
+	- [Bug Reporting](#bug-reporting)
 - [Tutorials](#tutorials)
 	- [Game Development](#game-development-tutorials)
 	- [Graphics/Modeling](#graphicsmodeling-tutorials)
@@ -533,6 +534,11 @@ Tools
 * [MagicaVoxel](http://voxel.codeplex.com/) - free lightweight 8-bit voxel editor and interactive path tracing renderer :free:
 * [Sproxel](https://code.google.com/archive/p/sproxel/) - 3d interface designed to let the user quickly create and edit voxel-based 3d models :free:
 * [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects :o2:
+
+
+### Bug Reporting
+
+* [Instabug](https://instabug.com/platforms/unity) - Bug Reporting tool for Unity that enables beta users to send feedback in-app. :triangular_flag_on_post:
 
 
 Tutorials
