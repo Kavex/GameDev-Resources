@@ -251,6 +251,7 @@ Code
 * [Quake](https://github.com/id-Software/Quake) :o2:
 * [SimCity](https://github.com/simhacker/micropolis) :o2:
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d) :o2:
+* [Delver](https://github.com/Interrupt/delverengine) :o2:
 
 
 ### Modules and Additional API
