@@ -475,7 +475,7 @@ Tools
 * [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. :o2:
 * [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine :free:
 * [Pixie Engine](http://pixieengine.com/) - Free online pixel editor :free:
-* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX (Warning: Doesn't support custom gif palettes) :o2:
+* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX (Warning: Pixen previously did not support custom gif palettes before becoming paid, and may still have this limiation.) :heavy_dollar_sign:
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. :heavy_dollar_sign:
 
 
