@@ -73,7 +73,6 @@ Assets
 * [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites :heavy_dollar_sign:
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites). :free:
 * [Time Fantasy](http://finalbossblues.com/timefantasy/) - Lovely SNES-Looking RPG Assets
-* [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - An Online 2D tree generator. :free:
 
 ### 3D Assets
 
@@ -115,7 +114,6 @@ Code
 * [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
 * [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 * [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
-* [RevMob](https://www.revmobmobileadnetwork.com/) - Monetization and Ads solution.
 * [Unity Ads](https://unity3d.com/services/ads) - Unity3D Official Ads SDK.
 * [Vungle](https://vungle.com/) - Video Ads service.
 
@@ -257,6 +255,7 @@ Code
 ### Modules and Additional API
 
 * [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer :free:
+* [kitlang](https://www.kitlang.org/) - Kit is a programming language designed for creating concise, high performance cross-platform applications. :o2:
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library :o2:
 * [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger :o2:
 * [snex.io](http://snex.io/) - Add controller support using broswer :o2:
