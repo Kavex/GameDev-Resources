@@ -66,7 +66,6 @@ Assets
 * [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use. :free:
 * [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets :heavy_dollar_sign:
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games. :free:
-* [HasGraphics](http://hasgraphics.com/free-sprites/) - free sprites available for commercial and non-commercial games. :free:
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. :free:
 * [Kenny Assets](http://kenney.nl/assets) - Royalty free assets :triangular_flag_on_post:
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. :free:
@@ -112,7 +111,7 @@ Code
 ### Ads and Monetization
 
 * [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
-* [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile.
+* [AdMob by Google](https://admob.google.com/home/games/) - Google's Ads and monetization service for mobile.
 * [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 * [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
 * [Unity Ads](https://unity3d.com/services/ads) - Unity3D Official Ads SDK.
@@ -139,7 +138,7 @@ Code
 * [EasyRPG](https://easyrpg.org/) - role playing game creation tool compatible with RPG Maker 2000/2003 games :free:
 * [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go. :o2:
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. :o2:
-* [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
+* [EnchantJS](https://github.com/wise9/enchant.js) - A simple JavaScript framework for creating games and apps.
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3. :o2:
@@ -171,7 +170,6 @@ Code
 * [Open Mega Engine](https://github.com/rafaelcp/Open-Mega-Engine)
 * [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games. :o2:
 * [OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
-* [Origamijs](http://origamijs.com/docs) - Lightweight Library to create using HTML5 Canvas.
 * [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
 * [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine. :o2:
 * [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
