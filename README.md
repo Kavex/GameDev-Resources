@@ -112,6 +112,7 @@ Code
 ### Ads and Monetization
 
 * [AdColony](http://www.adcolony.com/) - Mobile video Ads service.
+* [AdMob by Google](https://www.google.com.br/admob/) - Google's Ads and monetization service for mobile.
 * [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 * [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
 * [Unity Ads](https://unity3d.com/services/ads) - Unity3D Official Ads SDK.
@@ -195,6 +196,7 @@ Code
 
 ### 3D Engines and Frameworks
 
+* [Amethyst](https://www.amethyst.rs/) - Data-driven game engine written in Rust for 2D & 3D :o2:
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 * [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. :o2:
 * [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. :o2:
@@ -288,6 +290,7 @@ Design
 
 * [Asana](http://www.asana.com) - Free cloud project Management :triangular_flag_on_post:
 * [Casual](https://casual.pm/) - Visual Project Management :heavy_dollar_sign:
+* [ClickUp](https://clickup.com/) -  One app to replace them all. :triangular_flag_on_post:
 * [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games :heavy_dollar_sign:
 * [HacknPlan](http://hacknplan.com/) - Project management for game developers :triangular_flag_on_post:
 * [Taiga](https://taiga.io/) - Project management platform for agile developers & designers :triangular_flag_on_post:
