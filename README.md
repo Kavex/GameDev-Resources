@@ -240,6 +240,7 @@ Code
 ### Game Source Code
 
 * [BrowserQuest](https://github.com/mozilla/BrowserQuest) :o2:
+* [Diablo](https://github.com/diasurgical/devilution) :o2:
 * [Doom 3](https://github.com/id-Software/DOOM-3) :o2:
 * [Doom](https://github.com/id-Software/DOOM) :o2:
 * [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) :free:
