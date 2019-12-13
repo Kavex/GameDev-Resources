@@ -257,6 +257,7 @@ Code
 ### Modules and Additional API
 
 * [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer :free:
+* [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too. :o2:
 * [kitlang](https://www.kitlang.org/) - Kit is a programming language designed for creating concise, high performance cross-platform applications. :o2:
 * [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library :o2:
 * [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger :o2:
