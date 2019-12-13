@@ -67,7 +67,7 @@ Assets
 * [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets :heavy_dollar_sign:
 * [Games-Icons Set](http://game-icons.net/) - free icons for your games. :free:
 * [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. :free:
-* [Kenny Assets](http://kenney.nl/assets) - Royalty free assets :triangular_flag_on_post:
+* [Kenny Assets](http://kenney.nl/assets) - Royalty free assets :triangular_flag_on_post: 
 * [OpenClipart](https://openclipart.org/) -  Collection of free cliparts. :free:
 * [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites :heavy_dollar_sign:
 * [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites). :free:
@@ -76,6 +76,7 @@ Assets
 ### 3D Assets
 
 * [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects :free:
+* [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color. :free:
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. :free:
 * [TextureKing](http://www.textureking.com/) - Free realistic meterial stock textures  :free:
 * [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine. :free:
