@@ -331,6 +331,7 @@ Meta
 
 ### Books
 
+* [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th) ([Github Mirror](https://github.com/Penaz91/2DGD_F0TH)) :free:
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
