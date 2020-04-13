@@ -191,6 +191,7 @@ Code
 * [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 * [Tilengine](http://www.tilengine.org/) - C Engine with wrappers for C#, Python and Java :o2:
 * [Tiny Computer](http://nesbox.com/tic/) - a tiny computer where you can make, play and share tiny games.
+* [vlc-unity](https://github.com/videolan/vlc-unity) - LibVLC plugin for Unity by VideoLAN to integrate multimedia playback inside your Unity apps and games.
 
 
 ### 3D Engines and Frameworks
