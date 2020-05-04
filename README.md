@@ -77,7 +77,6 @@ Assets
 * [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color. :free:
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. :free:
 * [TextureKing](http://www.textureking.com/) - Free realistic meterial stock textures  :free:
-* [Yobi3D](https://www.yobi3d.com/) - Free 3D model search engine. :free:
 
 
 ### Audio Assets
@@ -114,15 +113,12 @@ Code
 * [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
 * [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
 * [Unity Ads](https://unity3d.com/services/ads) - Unity3D Official Ads SDK.
-* [Vungle](https://vungle.com/) - Video Ads service.
 
 
 ### 2D Engines and Frameworks
 
 * [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. :o2:
-* [AndEngine](http://www.andengine.org) - 2D Android Game Engine :o2:
-* [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games. :o2:
 * [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor. :o2:
 * [Box2D](http://box2d.org/) - A 2D Physics Engine for Games. :o2:
 * [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib. :o2:
@@ -160,7 +156,6 @@ Code
 * [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development. :o2:
 * [LÖVE](http://love2d.org) - Lua 2D Game Engine. :o2:
 * [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA) :o2:
-* [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
 * [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 * [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine. :o2:
 * [Monkey X](http://www.monkey-x.com) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
@@ -183,7 +178,7 @@ Code
 * [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library. :free:
 * [Solarus](http://www.solarus-games.org/) a free and open-source Action-RPG (Zelda) game engine :free:
 * [SpriteBuilder](http://www.spritebuilder.com/) - Open Source Game Development Suite for MacOS :o2:
-* [SpriteKit](https://developer.apple.com/library/ios/documentation/GraphicsAnimation/Conceptual/SpriteKit_PG/Introduction/Introduction.html) - iOS/Mac 2D Game Engine.
+* [SpriteKit](https://developer.apple.com/documentation/spritekit) - iOS/Mac 2D Game Engine.
 * [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 * [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
 * [Stencyl](http://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
