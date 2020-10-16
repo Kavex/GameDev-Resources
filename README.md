@@ -386,7 +386,7 @@ Tools
 ### Animation
 
 * [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers. :heavy_dollar_sign:
-* [ScreenToGif](https://screentogif.codeplex.com/) - record a selected area of your screen and save it as a Gif :free:
+* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - record a selected area of your screen and save it as a Gif :o2:
 * [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games. :heavy_dollar_sign:
 * [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation. :heavy_dollar_sign:
 * [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash :o2:
