@@ -41,7 +41,7 @@ Please remember to always look at the license before using something in your pro
 	- [Modeling](#modeling)
 	- [Pixel Editor](#pixel-editor)
 	- [Spritesheet](#spritesheet)
-	- [Story Design](#storydesign)
+	- [Story Design](#story-design)
 	- [Terrain Generators](#terrain-generators)
 	- [Texturing](#texturing)
 	- [Tile/Level Editors](#tilelevel-editors)
