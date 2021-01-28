@@ -41,6 +41,7 @@ Please remember to always look at the license before using something in your pro
 	- [Modeling](#modeling)
 	- [Pixel Editor](#pixel-editor)
 	- [Spritesheet](#spritesheet)
+	- [Story Design](#storydesign)
 	- [Terrain Generators](#terrain-generators)
 	- [Texturing](#texturing)
 	- [Tile/Level Editors](#tilelevel-editors)
@@ -494,6 +495,10 @@ Tools
 * [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator :o2:
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. :heavy_dollar_sign:
 
+
+### Story Design
+
+* [RapidQuest](https://github.com/radiantone/rapidquest) Free Branching Quest design tool :free:
 
 ### Terrain Generators
 
