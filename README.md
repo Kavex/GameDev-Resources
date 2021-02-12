@@ -301,6 +301,7 @@ Meta
 * [Designer Notes](http://www.designer-notes.com/) - Soren Johnson's Game Design Journal :free:
 * [Gamasutra](http://www.gamasutra.com/) - The Art & Business of Making Games :free:
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/) - Game Development Stack Exchange :free:
+* [GameBackend.dev](https://www.gamebackend.dev/) - Game Backend Infrastructure and Development :free:
 * [GameDev](http://www.gamedev.net/page/index.html) - Game Development Community :free:
 * [GameDevs.org](http://gamedevs.org/) -  various topics relating to game development :free:
 * [Game Hero](https://www.gamehero.org/) - Indie Game Developer Community :free:
@@ -553,6 +554,7 @@ Tutorials
 ### Game Development Tutorials
 
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques. :free:
+* [Building Your First Online Multiplayer Game in Unity](https://www.gamebackend.dev/2021/01/24/building-your-first-online-multiplayer-game-in-unity-5-steps-with-playfab-server-hosting/) – 5 Steps with PlayFab Server Hosting :free:
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Simple HTML canvas RPG looking game :free:
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255) - HTML5 Game Development by Google :free:
 * [Udemy: Make a Unity 2D Physics Game - For Beginners!](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/) - Unity 2D Physics :free:
