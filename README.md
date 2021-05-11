@@ -76,6 +76,7 @@ Assets
 
 * [Blender 3D models](https://www.blender-models.com/) - 3D models, particle systems/effects :free:
 * [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color. :free:
+* [Poly Pizza](https://poly.pizza) - Searchable library of low poly creative commons 3D models :free:
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. :free:
 * [TextureKing](http://www.textureking.com/) - Free realistic meterial stock textures  :free:
 
