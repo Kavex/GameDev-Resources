@@ -79,6 +79,7 @@ Assets
 * [Poly Pizza](https://poly.pizza) - Searchable library of low poly creative commons 3D models :free:
 * [Reiner's Tilesets](http://www.reinerstilesets.de/) - A blog with free 2D and 3D graphics. :free:
 * [TextureKing](http://www.textureking.com/) - Free realistic meterial stock textures  :free:
+* [3DModelsCC0](https://www.3dmodelscc0.com/) - Public domain 3D models  :free:
 
 
 ### Audio Assets
