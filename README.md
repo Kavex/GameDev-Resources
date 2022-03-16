@@ -550,7 +550,7 @@ Tutorials
 * [Building Your First Online Multiplayer Game in Unity](https://www.gamebackend.dev/2021/01/24/building-your-first-online-multiplayer-game-in-unity-5-steps-with-playfab-server-hosting/) – 5 Steps with PlayFab Server Hosting :free:
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Simple HTML canvas RPG looking game :free:
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255) - HTML5 Game Development by Google :free:
-* [Udemy: Make a Unity 2D Physics Game - For Beginners!](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/) - Unity 2D Physics :free:
+
 
 
 ### Graphics/Modeling Tutorials
@@ -558,7 +558,6 @@ Tutorials
 * [How to make 2D Game Tilesets - Setup & The Basics](https://www.youtube.com/watch?v=MFvsRvo_78Y) Youtube vid by ORIANART
 * [Pixel Art Tutorial Basics for Beginners](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
 * [Udacity: Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Interactive 3D Graphics by Google :free:
-* [Udemy: The Complete Blender Creator Course](https://www.udemy.com/blendertutorial/) High quality Blender 3D tutorial for all levels :heavy_dollar_sign:
 
 
 ### Music Tutorials
@@ -569,9 +568,6 @@ Tutorials
 ### Programming Tutorials
 
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) :free:
-* [Udemy: Fundamentals of Programming](https://www.udemy.com/fundamentals-of-programming/) :free:
-* [Udemy: Learn to program Tic Tac Toe Game in Visual C++ on Windows](https://www.udemy.com/learn-to-program-tic-tac-toe-in-visual-c-on-windows/) :free:
-
 
 --------
 
