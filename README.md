@@ -120,7 +120,6 @@ Code
 
 ### 2D Engines and Frameworks
 
-* [Agen](http://2dengine.com/page.php?p=features) - Cross-Platform framework for making 2D games with Lua, compatible iOS, Mac and Windows devices.
 * [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. :o2:
 * [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor. :o2:
 * [Box2D](http://box2d.org/) - A 2D Physics Engine for Games. :o2:
@@ -140,7 +139,7 @@ Code
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3. :o2:
-* [GameMaker](http://www.yoyogames.com/studio) - 2D Game Engine :triangular_flag_on_post:
+* [GameMaker](https://www.yoyogames.com/) - 2D Game Engine :triangular_flag_on_post:
 * [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * [Gideros](http://giderosmobile.com/) - Mobile Cross-Platform framework using Lua programming language. :o2:
 * [Glide Engine](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples. :o2:
@@ -203,8 +202,6 @@ Code
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan. :o2:
 * [gameplay3d](http://gameplay3d.io/) - 2D + 3D game framework written in C++ :o2:
 * [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. :o2:
-* [Havok Vision](http://www.havok.com/vision-engine/) - a cross-platform game engine that provides a powerful and versatile multi-platform runtime technology.
-* [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
 * [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine. :o2:
 * [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. :o2:
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
@@ -273,9 +270,7 @@ Design
 
 
 ### Marketing and PR
-
-* [A Guide to Launching Indie Games](http://www.binpress.com/blog/2015/02/06/indie-game-launch-guide-pre-launch/) - successful launch strategy for Indie Games :free: 
-* [Gamebrief](http://www.metkis.com/gamebrief/index.html) Focus development of your game with 10 questions. :free:
+ 
 * [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing :free:
 
 
@@ -392,7 +387,6 @@ Tools
 * [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers. :heavy_dollar_sign:
 * [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - record a selected area of your screen and save it as a Gif :o2:
 * [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games. :heavy_dollar_sign:
-* [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation. :heavy_dollar_sign:
 * [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash :o2:
 * [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more. :o2:
 
@@ -409,7 +403,6 @@ Tools
 * [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. :free:
 * [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator :free:
 * [FamiTracker](http://famitracker.com/) - Produce music for the NES/Famicom-systems :free:
-* [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
 * [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 * [LMMS](https://lmms.io/) - digital audio workstation software :o2:
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
@@ -487,14 +480,12 @@ Tools
 
 * [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool :o2:
 * [GlueIT](https://github.com/Kavex/GlueIT) Free Simple Spritesheet Tool :free:
-* [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use. :heavy_dollar_sign:
 * [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases :free:
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx :o2:
 * [MakeAtlas](http://www.skn3.com/junk/makeatlas/makeatlas1.12.zip) - Simple tool to pack a texture atlas :free:
 * [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. :free:
 * [Sprite Generator](https://spritegenerator.codeplex.com/) - O-tree based rectangle sprite packing :free: 
 * [Sprite Sheet Packer](https://spritesheetpacker.codeplex.com) - fully featured tool for combining multiple individual images into a single, efficiently laid out image :free:
-* [Spritesheet Preview](http://kleber-swf.com/app/spritesheet-preview/) - A simple and free tool to preview sprite sheets :free:
 * [SpriteUV2](https://www.spriteuv.com/) - tool for creating optimal meshes for textures/sprites and packing them into an atlas. :triangular_flag_on_post:
 * [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator :o2:
 * [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. :heavy_dollar_sign:
@@ -508,7 +499,6 @@ Tools
 
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively :free:
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
-* [Nem TG](http://nemesis.thewavelength.net/index.php?p=8) - 3D terrain generator
 * [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing :heavy_dollar_sign:
 
 
@@ -542,7 +532,7 @@ Tools
 
 * [goxel](https://github.com/guillaumechereau/goxel) - Open source 3D voxel editor :o2:
 * [MagicaVoxel](http://voxel.codeplex.com/) - free lightweight 8-bit voxel editor and interactive path tracing renderer :free:
-* [Sproxel](https://code.google.com/archive/p/sproxel/) - 3d interface designed to let the user quickly create and edit voxel-based 3d models :free:
+* [Sproxel](https://code.google.com/arcp/sproxel/) - 3d interface designed to let the user quickly create and edit voxel-based 3d models :free:
 * [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects :o2:
 
 
@@ -565,7 +555,6 @@ Tutorials
 
 ### Graphics/Modeling Tutorials
 
-* [Coursera: Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) :free:
 * [How to make 2D Game Tilesets - Setup & The Basics](https://www.youtube.com/watch?v=MFvsRvo_78Y) Youtube vid by ORIANART
 * [Pixel Art Tutorial Basics for Beginners](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
 * [Udacity: Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Interactive 3D Graphics by Google :free:
@@ -579,7 +568,6 @@ Tutorials
 
 ### Programming Tutorials
 
-* [Coursera: Beginning Game Programming with C#](https://www.coursera.org/learn/game-programming) :free:
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) :free:
 * [Udemy: Fundamentals of Programming](https://www.udemy.com/fundamentals-of-programming/) :free:
 * [Udemy: Learn to program Tic Tac Toe Game in Visual C++ on Windows](https://www.udemy.com/learn-to-program-tic-tac-toe-in-visual-c-on-windows/) :free:
