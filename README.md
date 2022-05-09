@@ -425,6 +425,7 @@ Tools
 * [Notepad++](https://notepad-plus-plus.org/) Notepad replacement that supports several languages. :o2:
 * [Sublime Text](http://www.sublimetext.com/) Sophisticated text editor for code, markup and prose. :heavy_dollar_sign:
 * [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE :free:
+* [Visual Studio Code](https://code.visualstudio.com/) Free. Built on open source. Runs everywhere. :free:
 
 
 ### Modeling
