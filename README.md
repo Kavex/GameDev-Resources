@@ -139,7 +139,8 @@ Code
 * [Gideros](http://giderosmobile.com/) - Mobile Cross-Platform framework using Lua programming language. :o2:
 * [Glide Engine](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples. :o2:
 * [Gosu](https://www.libgosu.org/) - 2D game development library for Ruby and C++ :o2:
-* [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free.
+* [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free in Haxe.
+* [HEAPS.io](https://heaps.io) - A mature cross-platform graphics engine for high performance games written in Haxe.
 * [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :o2:
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
 * [Juno TypeScript](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
