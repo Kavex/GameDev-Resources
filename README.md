@@ -143,6 +143,7 @@ Code
 * [HEAPS.io](https://heaps.io) - A mature cross-platform graphics engine for high performance games written in Haxe.
 * [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications :o2:
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
+* [JNGL](https://github.com/jhasse/jngl) - 2D C++ Cross-Platform engine for Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 * [Juno TypeScript](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 * [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
