@@ -442,6 +442,7 @@ Tools
 
 ### Pixel Editor
 
+* [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter :free:
 * [Aseprite](http://www.aseprite.org/) - Animated sprite editor & pixel art tool :heavy_dollar_sign:
 * [Hexels](https://www.marmoset.co/hexels/) - intuitive 2D, grid-based painting tool  :heavy_dollar_sign:
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. :heavy_dollar_sign:
