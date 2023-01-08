@@ -442,7 +442,6 @@ Tools
 
 ### Pixel Editor
 
-* [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter :free:
 * [Aseprite](http://www.aseprite.org/) - Animated sprite editor & pixel art tool :heavy_dollar_sign:
 * [Hexels](https://www.marmoset.co/hexels/) - intuitive 2D, grid-based painting tool  :heavy_dollar_sign:
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. :heavy_dollar_sign:
@@ -450,6 +449,7 @@ Tools
 * [Pixa.Pics](https://pixa.pics/) - Load any image on the web app as a pixel art. Then, draw, and eventually vectorize art. :free:
 * [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine :free:
 * [Pixie Engine](http://pixieengine.com/) - Free online pixel editor :free:
+* [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter :free:
 * [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX (Warning: Pixen previously did not support custom gif palettes before becoming paid, and may still have this limiation.) :heavy_dollar_sign:
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. :heavy_dollar_sign:
 
