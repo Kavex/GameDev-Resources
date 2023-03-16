@@ -99,6 +99,7 @@ Assets
 
 * [CGTextures](http://www.textures.com) - A large collection of textures. :triangular_flag_on_post:
 * [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators. :heavy_dollar_sign:
+* [LotPixel](https://www.lotpixel.com/) - A huge assets ligbrary. Photogrammetry and PBR Textures, 3D Models, Decals. 1500+ Free Texture Available. :triangular_flag_on_post:
 * [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. :free:
 * [PlainTextures](http://www.plaintextures.com/) -  Free high resolution textures, brushes and photos :free:
 * [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models. :triangular_flag_on_post:
