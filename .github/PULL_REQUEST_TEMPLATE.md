@@ -11,9 +11,9 @@
 ## Description
 <!--- What have you done? -->
 
-
 ## Checklist:
 - [ ] Checked for duplicate links
 - [ ] Removed all extra white space behind link and description
 - [ ] Changes are alphabetically
 - [ ] Added infomation is relevant to game development
+- [ ] Added price tag 🅾️🆓🚩💲
