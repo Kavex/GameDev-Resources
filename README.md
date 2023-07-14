@@ -466,7 +466,7 @@ Tools
 
 * [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively :free:
 * [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
-* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing :heavy_dollar_sign
+* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing :heavy_dollar_sign:
 
 ### Texturing
 
