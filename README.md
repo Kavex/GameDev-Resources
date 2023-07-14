@@ -174,109 +174,107 @@ Code
 
 ### 3D Engines and Frameworks
 
-* [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
-* [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. :o2:
-* [Bullet](http://bulletphysics.org/wordpress/) - Real-time physics simulation.
-* [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. :o2:
-* [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. :o2:
-* [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan. :o2:
-* [gameplay3d](http://gameplay3d.io/) - 2D + 3D game framework written in C++ :o2:
-* [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. :o2:
-* [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine. :o2:
-* [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. :o2:
-* [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
-* [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
-* [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-* [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. :o2:
-* [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
-* [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series. :triangular_flag_on_post:
-* [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
-* [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. :o2:
-* [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
-* [Polycode](http://polycode.org) - Open-Source Framework for creating games in C++ (with Lua bindings).
-* [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine  :o2:
-* [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine :free:
-* [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
-* [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software :heavy_dollar_sign:
-* [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
-* [Three.js](http://threejs.org/) - Javascript 3D Library.
-* [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
-* [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
-* [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
-* [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine. :o2:
-* [Wave](http://waveengine.net/) - Cross-platform engine written in C#
-* [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games :o2:
-* [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
-* [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming :o2:
+* :free: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
+* :o2: [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. 
+* :o2: [Bullet](https://github.com/bulletphysics/bullet3) - Real-time physics simulation.
+* :o2: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. 
+* :o2: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+* :o2: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
+* :free: [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy to any platform.
+* :o2: [gameplay3d](http://gameplay3d.io/) - 2D + 3D game framework written in C++ 
+* :o2: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. 
+* :o2: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
+* :o2: [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. 
+* :o2: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
+* :free: [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+* :o2: [Amazon Lumberyard]([https://aws.amazon.com/pt/lumberyard/](https://github.com/o3de/o3de)) - Amazon Lumberyard is a free AAA game engine deeply integrated
+* :o2: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. 
+* :free: [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
+* :triangular_flag_on_post: [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
+* :o2: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
+* :o2: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. 
+* :free: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine with limited free
+* :o2: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+* :free: [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine
+* :free: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
+* :heavy_dollar_sign: [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software
+* :free: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
+* :o2: [Three.js](http://threejs.org/) - Javascript 3D Library.
+* :free: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
+* :free: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
+* :free: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
+* :o2: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.+
+* :o2: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games 
+* :free: [voxel.js](http://voxeljs.com/) - voxel.js is a collection of projects that make it easier than ever to create 3D voxel games like Minecraft all in the browser.
+* :o2: [Xenko Game Engine](http://xenko.com/) -  open-source C# game engine designed for the future of gaming
 
 
 ### Game Source Code
 
-* [BrowserQuest](https://github.com/mozilla/BrowserQuest) :o2:
-* [Diablo](https://github.com/diasurgical/devilution) :o2:
-* [Doom 3](https://github.com/id-Software/DOOM-3) :o2:
-* [Doom](https://github.com/id-Software/DOOM) :o2:
-* [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) :free:
-* [HandmadeHero: making 2D game from scratch](https://handmadehero.org/) :heavy_dollar_sign:
-* [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) :o2:
-* [Quake 2](https://github.com/id-Software/Quake-2) :o2:
-* [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) :o2:
-* [Quake](https://github.com/id-Software/Quake) :o2:
-* [SimCity](https://github.com/simhacker/micropolis) :o2:
-* [Wolfenstein 3D](https://github.com/id-Software/wolf3d) :o2:
-* [Delver](https://github.com/Interrupt/delverengine) :o2:
+* :o2: [BrowserQuest](https://github.com/mozilla/BrowserQuest) 
+* :o2: [Diablo](https://github.com/diasurgical/devilution) 
+* :o2: [Doom 3](https://github.com/id-Software/DOOM-3) 
+* :o2: [Doom](https://github.com/id-Software/DOOM) 
+* :free: [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) 
+* :heavy_dollar_sign: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/) 
+* :o2: [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) 
+* :o2: [Quake 2](https://github.com/id-Software/Quake-2)
+* :o2: [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) 
+* :o2: [Quake](https://github.com/id-Software/Quake) 
+* :o2: [SimCity](https://github.com/simhacker/micropolis) 
+* :o2: [Wolfenstein 3D](https://github.com/id-Software/wolf3d) 
+* :o2: [Delver](https://github.com/Interrupt/delverengine) 
 
 
 ### Modules and Additional API
 
-* [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer :free:
-* [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too. :o2:
-* [kitlang](https://www.kitlang.org/) - Kit is a programming language designed for creating concise, high performance cross-platform applications. :o2:
-* [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library :o2:
-* [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger :o2:
+* :free: [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer 
+* :o2: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too. 
+* :o2: [kitlang](https://www.kitlang.org/) - Kit is a programming language designed for creating concise, high performance cross-platform applications. :o2:
+* :o2: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library 
+* :o2: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger 
 
 Design
 --------
 
 ### Idea Generators
 
-* [Boardgamizer](http://www.boardgamizer.com) - Board Game Design Idea Generator. :free:
-* [Gigster](http://www.ludocraft.com/gigster/) Randomized Game Idea Generator  :free:
-* [RPTools](http://www.rptools.net) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games. :free:
-* [Video Game Name Generator](https://videogamena.me) Randomized video games names :free:
+* :free: [Boardgamizer](http://www.boardgamizer.com) - Board Game Design Idea Generator. 
+* :free: [Gigster](http://www.ludocraft.com/gigster/) Randomized Game Idea Generator  
+* :free: [RPTools](http://www.rptools.net) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games. 
+* :free: [Video Game Name Generator](https://videogamena.me) Randomized video games names 
 
 
 ### Marketing and PR
  
-* [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing :free:
+* :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing 
 
 
 ### Mechanics
 
-* [Board Game Mechanics](http://boardgamegeek.com/browse/boardgamemechanic) Set of different board game mechanics :free:
+* :free: [Board Game Mechanics](http://boardgamegeek.com/browse/boardgamemechanic) Set of different board game mechanics 
 
 
 ### Project Management
 
-* [Asana](http://www.asana.com) - Free cloud project Management :triangular_flag_on_post:
-* [Casual](https://casual.pm/) - Visual Project Management :heavy_dollar_sign:
-* [ClickUp](https://clickup.com/) -  One app to replace them all. :triangular_flag_on_post:
-* [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games :heavy_dollar_sign:
-* [HacknPlan](http://hacknplan.com/) - Project management for game developers :triangular_flag_on_post:
-* [Taiga](https://taiga.io/) - Project management platform for agile developers & designers :triangular_flag_on_post:
-* [Trello](https://trello.com/) - Organize and prioritize projects :triangular_flag_on_post:
-
+* :triangular_flag_on_post: [Asana](http://www.asana.com) - Free cloud project Management 
+* :triangular_flag_on_post: [Casual](https://casual.pm/) - Visual Project Management 
+* :triangular_flag_on_post: [ClickUp](https://clickup.com/) -  One app to replace them all. 
+* :heavy_dollar_sign: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games 
+* :triangular_flag_on_post: [HacknPlan](http://hacknplan.com/) - Project management for game developers 
+* :triangular_flag_on_post: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers 
+* :triangular_flag_on_post: [Trello](https://trello.com/) - Organize and prioritize projects 
 
 Meta
 --------
 
 ### Blogs and Portals
 
-* [Designer Notes](http://www.designer-notes.com/) - Soren Johnson's Game Design Journal :free:
-* [Gamasutra](http://www.gamasutra.com/) - The Art & Business of Making Games :free:
-* [Game Development on StackExchange](http://gamedev.stackexchange.com/) - Game Development Stack Exchange :free:
-* [GameDev](http://www.gamedev.net/page/index.html) - Game Development Community :free:
-* [GameDevs.org](http://gamedevs.org/) -  various topics relating to game development :free:
+* :free: [Designer Notes](http://www.designer-notes.com/) - Soren Johnson's Game Design Journal 
+* :free: [Gamasutra](http://www.gamasutra.com/) - The Art & Business of Making Games 
+* :free: [Game Development on StackExchange](http://gamedev.stackexchange.com/) - Game Development Stack Exchange 
+* :free: [GameDev](http://www.gamedev.net/page/index.html) - Game Development Community 
+* :free: [GameDevs.org](http://gamedevs.org/) -  various topics relating to game development 
 * [GameJolt](http://gamejolt.com/)
 * [Greenlit Gaming](http://greenlitgaming.com/)
 * [HTML5 Game Devs Forum](http://www.html5gamedevs.com/)
@@ -297,7 +295,7 @@ Meta
 
 ### Books
 
-* [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th) :free:
+* :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th) 
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
@@ -337,17 +335,17 @@ Meta
 
 ### Magazines
 
-* [Casual Connect](http://casualconnect.org/) :free:
-* [Game Developer Magazine](http://www.gdcvault.com/gdmag) :free:
-* [IndieMag](https://www.indiemag.fr/) :free:
-* [Making Games](http://www.makinggames.biz/) :free:
+* :free: [Casual Connect](http://casualconnect.org/) 
+* :free: [Game Developer Magazine](http://www.gdcvault.com/gdmag)
+* :free: [IndieMag](https://www.indiemag.fr/) 
+* :free: [Making Games](http://www.makinggames.biz/) 
 
 
 ### Videos/Podcasts
 
-* [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). :o2:
-* [BigSushi](http://www.bigsushi.fm/) - BigSushi GameDev Podcast :free:
-* [TheChernoProject](https://www.youtube.com/user/TheChernoProject) - TheChernoProject youtube channel :free:
+* :o2: [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). 
+* :free: [BigSushi](http://www.bigsushi.fm/) - BigSushi GameDev Podcast 
+* :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject) - TheChernoProject youtube channel 
 
 
 Tools
@@ -355,151 +353,148 @@ Tools
 
 ### Animation
 
-* [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers. :heavy_dollar_sign:
-* [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - record a selected area of your screen and save it as a Gif :o2:
-* [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games. :heavy_dollar_sign:
-* [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash :o2:
-* [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more. :o2:
+* :heavy_dollar_sign: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers. 
+* :o2: [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - record a selected area of your screen and save it as a Gif 
+* :heavy_dollar_sign: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games. 
+* :o2: [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash 
+* :o2: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more. 
 
 
 ### Audio Tools
 
-* [Ardour](http://ardour.org/) - A multichannel digital audio workstation :o2:
-* [Audacity](http://sourceforge.net/projects/audacity/) - cross-platform software for recording and editing sounds. :o2:
-* [Audiosauna](http://www.audiosauna.com/) - transforms your web browser into a fast and flexible music production studio with built in synthesizers and live effects.
-* [Audiotool](http://www.audiotool.com/app) - Online music producer.
-* [BeepBox](http://www.beepbox.co/) - online tool for sketching and sharing chiptune melodies :free:
-* [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
-* [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. :free:
-* [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator :free:
-* [FamiTracker](http://famitracker.com/) - Produce music for the NES/Famicom-systems :free:
-* [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
-* [LMMS](https://lmms.io/) - digital audio workstation software :o2:
-* [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-* [Musagi](http://www.drpetter.se/project_musagi.html) - fairly large and sophisticated music editor and synthesizer :o2:
-* [PulseBoy](http://www.pulseboy.com/) web-based musical sequencer which only uses 8bit sounds and samples :free:
-* [Rosegarden](http://www.rosegardenmusic.com/) - music composition and editing environmen :o2:
-* [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. :o2:
-* [Soundation](https://soundation.com/) - Online Professional music studio.
-* [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
-* [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D :o2:
+* :o2: [Ardour](http://ardour.org/) - A multichannel digital audio workstation 
+* :o2: [Audacity](http://sourceforge.net/projects/audacity/) - cross-platform software for recording and editing sounds. 
+* :free: [BeepBox](http://www.beepbox.co/) - online tool for sketching and sharing chiptune melodies 
+* :free: [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
+* :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. 
+* :free: [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator 
+* :free: [FamiTracker](http://famitracker.com/) - Produce music for the NES/Famicom-systems 
+* :free: [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
+* :o2: [LMMS](https://lmms.io/) - digital audio workstation software 
+* :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
+* :o2: [Musagi](http://www.drpetter.se/project_musagi.html) - fairly large and sophisticated music editor and synthesizer 
+* :free: [PulseBoy](http://www.pulseboy.com/) web-based musical sequencer which only uses 8bit sounds and samples 
+* :o2: [Rosegarden](http://www.rosegardenmusic.com/) - music composition and editing environmen 
+* :o2: [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. 
+* :heavy_dollar_sign: [Soundation](https://soundation.com/) - Online Professional music studio.
+* :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
+* :o2: [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D 
 
 
 ### Bitmap Compression
 
-* [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools :free:
-* [Image Asset Generation Photoshop plug-in](https://github.com/adobe-photoshop/generator-assets) — Easy export layers to files. :o2:
-* [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms. :heavy_dollar_sign:
-* [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites :free:
-* [PNGoo](https://pngquant.org/) - Windows GUI for batch conversion. :free:
-* [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool. :o2:
-* [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web" :free:
-* [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency. :free:
+* :free: [ImageAlpha](http://pngmini.com/) — Mac OS X GUI for pngquant and other tools 
+* :o2: [Image Asset Generation Photoshop plug-in](https://github.com/adobe-photoshop/generator-assets) — Easy export layers to files. 
+* :heavy_dollar_sign: [Kraken.io](https://kraken.io/) - robust, ultra-fast image optimizer and compressor with best-in-class algorithms. 
+* :free: [PNGGauntlet](http://pnggauntlet.com/) - Smash PNGs for faster sites 
+* :free: [PNGoo](https://pngquant.org/) - Windows GUI for batch conversion. 
+* :o2: [Pngyu](http://nukesaq88.github.io/Pngyu/) - simple PNG image file compression tool. 
+* :free: [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web" 
+* :free: [TinyPNG](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency. 
 
 
 ### Character Generators
 
-* [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker. :free:
+* :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker. 
 
 
 ### Design Tools
 
-* [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content. :heavy_dollar_sign:
-* [Dundoc](http://www.dundoc.com/) Game Design starter Template :free:
-* [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents  :heavy_dollar_sign:
-* [Tiny Game Design Tool](http://tinygdtool.urustar.net) small, portable booklet created in order to help game designers. :free:
-* [Twine](http://twinery.org/) - Open-source tool for telling interactive, nonlinear stories. :o2:
-
+* :heavy_dollar_sign: [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content. 
+* :free: [Dundoc](http://www.dundoc.com/) Game Design starter Template 
+* :heavy_dollar_sign: [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents  
+* :free: [Tiny Game Design Tool](http://tinygdtool.urustar.net) small, portable booklet created in order to help game designers. 
+* :o2: [Twine](http://twinery.org/) - Open-source tool for telling interactive, nonlinear stories. 
 
 ### IDE and Editors
 
-* [Atom](https://atom.io/) Highly customizable open source text editor :o2:
-* [Eclipse](https://eclipse.org/) - integrated development environment mainly used for Java :free:
-* [Notepad++](https://notepad-plus-plus.org/) Notepad replacement that supports several languages. :o2:
-* [Sublime Text](http://www.sublimetext.com/) Sophisticated text editor for code, markup and prose. :heavy_dollar_sign:
-* [Visual Studio Code](https://code.visualstudio.com/) Free. Built on open source. Runs everywhere. :free:
-* [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE :free:
+* :o2: [Atom](https://atom.io/) Highly customizable open source text editor 
+* :free: [Eclipse](https://eclipse.org/) - integrated development environment mainly used for Java 
+* :o2: [Notepad++](https://notepad-plus-plus.org/) Notepad replacement that supports several languages. 
+* :heavy_dollar_sign: [Sublime Text](http://www.sublimetext.com/) Sophisticated text editor for code, markup and prose. 
+* :free: [Visual Studio Code](https://code.visualstudio.com/) Free. Built on open source. Runs everywhere. 
+* :free: [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE 
 
 
 ### Modeling
 
-* [Blender](http://www.blender.org/) - free and open source 3D creation suite :o2:
-* [ZBrush Mini](https://zbrushcore.com/mini/) digital sculpting software :free:
-* [SketchUp](http://www.sketchup.com/) - 3D modeling computer program for a wide range of drawing application :heavy_dollar_sign:
-* [Maya](http://www.autodesk.com/products/maya/overview) Industry animation software :heavy_dollar_sign:
-* [3ds Max](http://www.autodesk.com/products/3ds-max/overview) Industry modeling software :heavy_dollar_sign:
-* [Clara.io](https://clara.io/) - Start creating, rendering and sharing 3D :triangular_flag_on_post:
+* :o2: [Blender](http://www.blender.org/) - free and open source 3D creation suite 
+* :free: [ZBrush Mini](https://zbrushcore.com/mini/) digital sculpting software 
+* :heavy_dollar_sign: [SketchUp](http://www.sketchup.com/) - 3D modeling computer program for a wide range of drawing application 
+* :heavy_dollar_sign: [Maya](http://www.autodesk.com/products/maya/overview) Industry animation software 
+* :heavy_dollar_sign: [3ds Max](http://www.autodesk.com/products/3ds-max/overview) Industry modeling software 
+* :triangular_flag_on_post [Clara.io](https://clara.io/) - Start creating, rendering and sharing 3D 
 
 
 ### Pixel Editor
 
-* [Aseprite](http://www.aseprite.org/) - Animated sprite editor & pixel art tool :heavy_dollar_sign:
-* [Hexels](https://www.marmoset.co/hexels/) - intuitive 2D, grid-based painting tool  :heavy_dollar_sign:
-* [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. :heavy_dollar_sign:
-* [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. :o2:
-* [Pixa.Pics](https://pixa.pics/) - Load any image on the web app as a pixel art. Then, draw, and eventually vectorize art. :free:
-* [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine :free:
-* [Pixie Engine](http://pixieengine.com/) - Free online pixel editor :free:
-* [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter :free:
-* [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX (Warning: Pixen previously did not support custom gif palettes before becoming paid, and may still have this limiation.) :heavy_dollar_sign:
-* [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. :heavy_dollar_sign:
+* :heavy_dollar_sign: [Aseprite](http://www.aseprite.org/) - Animated sprite editor & pixel art tool 
+* :heavy_dollar_sign: [Hexels](https://www.marmoset.co/hexels/) - intuitive 2D, grid-based painting tool 
+* :heavy_dollar_sign: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. 
+* :o2: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. 
+* :free: [Pixa.Pics](https://pixa.pics/) - Load any image on the web app as a pixel art. Then, draw, and eventually vectorize art. 
+* :free: [Pixi Paint](https://github.com/Kavex/pixel-editor/blob/master/download.md) Desktop version of Pixie Engine 
+* :free: [Pixie Engine](http://pixieengine.com/) - Free online pixel editor 
+* :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter 
+* :heavy_dollar_sign: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX (Warning: Pixen previously did not support custom gif palettes before becoming paid, and may still have this limiation.) 
+* :heavy_dollar_sign: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. 
 
 
 ### Spritesheet
 
-* [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool :o2:
-* [GlueIT](https://github.com/Kavex/GlueIT) Free Simple Spritesheet Tool :free:
-* [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases :free:
-* [Libgdx Texture Packer](https://libgdx.com/wiki/) - Texture Packer built into Libgdx :o2:
-* [MakeAtlas](http://www.skn3.com/junk/makeatlas/makeatlas1.12.zip) - Simple tool to pack a texture atlas :free:
-* [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. :free:
-* [SpriteUV2](https://www.spriteuv.com/) - tool for creating optimal meshes for textures/sprites and packing them into an atlas. :triangular_flag_on_post:
-* [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator :o2:
-* [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. :heavy_dollar_sign:
+* :o2: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool 
+* :free: [GlueIT](https://github.com/Kavex/GlueIT) Free Simple Spritesheet Tool 
+* :free: [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases 
+* :o2: [Libgdx Texture Packer](https://libgdx.com/wiki/) - Texture Packer built into Libgdx 
+* :free: [MakeAtlas](http://www.skn3.com/junk/makeatlas/makeatlas1.12.zip) - Simple tool to pack a texture atlas 
+* :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. 
+* :triangular_flag_on_post: [SpriteUV2](https://www.spriteuv.com/) - tool for creating optimal meshes for textures/sprites and packing them into an atlas. 
+* :o2: [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator 
+* :heavy_dollar_sign: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. 
 
 
 ### Story Design
 
-* [RapidQuest](https://github.com/radiantone/rapidquest) Free Branching Quest design tool :free:
+* :free: [RapidQuest](https://github.com/radiantone/rapidquest) Free Branching Quest design tool
 
 ### Terrain Generators
 
-* [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively :free:
-* [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
-* [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing :heavy_dollar_sign:
-
+* :free: [Canyon Terrain Editor](https://entardev.wordpress.com/other-projects/canyon-terrain-editor/) - Create quality, realistic terrain quickly and intuitively 
+* :free: [Fracplanet](https://sourceforge.net/projects/fracplanet/) - Fractal planet and terrain generator
+* :heavy_dollar_sign: [World Machine](http://www.world-machine.com/) - Procedural terrain creation, simulations of nature, and interactive editing
+  
 ### Texturing
 
-* [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters. :heavy_dollar_sign:
-* [PixPlant](http://www.pixplant.com/) - Smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos. :heavy_dollar_sign:
+* :heavy_dollar_sign: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters. 
+* :heavy_dollar_sign: [PixPlant](http://www.pixplant.com/) - Smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos. 
 
 
 ### Tile/Level Editors
 
-* [OGMO Editor](https://ogmo-editor-3.github.io/) - generic level editor. :o2:
-* [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor. :free:
-* [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. :free:
+* :o2: [OGMO Editor](https://ogmo-editor-3.github.io/) - generic level editor. 
+* :free: [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor.
+* :free: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. 
 
 
 ### Vector/Image Editor
 
-* [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. :o2:
-* [Krita](https://krita.org/) - Sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters. :o2:
-* [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. :free:
-* [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
-* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software, easy to use and fast :heavy_dollar_sign:
-* [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional photo editing software :heavy_dollar_sign:
+* :o2: [Gimp](http://www.gimp.org/) - GNU Image Manipulation Program. It is a freely distributed piece of software for such tasks as photo retouching, image composition and image authoring. 
+* :o2: [Krita](https://krita.org/) - Sketching and painting, offering an end-to-end solution for creating digital painting files from scratch by masters. 
+* :free: [Paint.NET](http://www.getpaint.net/) - Paint.NET is free image and photo editing software for PCs that run Windows. 
+* :heavy_dollar_sign: [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
+* :heavy_dollar_sign: [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software, easy to use and fast 
+* :heavy_dollar_sign: [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Professional photo editing software 
 
 
 ### Voxel Editors
 
-* [goxel](https://github.com/guillaumechereau/goxel) - Open source 3D voxel editor :o2:
-* [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects :o2:
+* :o2: [goxel](https://github.com/guillaumechereau/goxel) - Open source 3D voxel editor 
+* :o2: [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects 
 
 
 ### Bug Reporting
 
-* [Instabug](https://instabug.com/platforms/unity) - Bug Reporting tool for Unity that enables beta users to send feedback in-app. :triangular_flag_on_post:
+* :triangular_flag_on_post: [Instabug](https://instabug.com/platforms/unity) - Bug Reporting tool for Unity that enables beta users to send feedback in-app.
 
 
 Tutorials
@@ -507,26 +502,26 @@ Tutorials
 
 ### Game Development Tutorials
 
-* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques. :free:
-* [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Simple HTML canvas RPG looking game :free:
-* [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255) - HTML5 Game Development by Google :free:
+* :free: [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - Step-by-step guide to real-time shading techniques. 
+* :free: [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/) - Simple HTML canvas RPG looking game 
+* :free: [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255) - HTML5 Game Development by Google 
 
 
 
 ### Graphics/Modeling Tutorials
 
-* [Pixel Art Tutorial Basics for Beginners](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
-* [Udacity: Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Interactive 3D Graphics by Google :free:
+* :free: [Pixel Art Tutorial Basics for Beginners](http://gasara.deviantart.com/art/Pixel-Art-Tutorial-Basics-for-Beginners-356743783)
+* :free: [Udacity: Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291) - Interactive 3D Graphics by Google 
 
 
 ### Music Tutorials
 
-* [How To Make Game Music with FL Studio](https://www.youtube.com/watch?v=pkvx-ipbmVg) Youtube vid by rm2kdev :free:
+* :free: [How To Make Game Music with FL Studio](https://www.youtube.com/watch?v=pkvx-ipbmVg) Youtube vid by rm2kdev 
 
 
 ### Programming Tutorials
 
-* [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) :free:
+* :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations) 
 
 --------
 
