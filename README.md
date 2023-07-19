@@ -195,6 +195,7 @@ Code
 * :o2: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. 
 * :free: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine with limited free
 * :o2: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+* :o2: [Raylib](https://www.raylib.com/) - A simple 2D and 3D graphics library, with bindings available in numerous programming languages.
 * :free: [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine
 * :free: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
 * :heavy_dollar_sign: [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software
