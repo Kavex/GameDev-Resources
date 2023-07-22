@@ -175,7 +175,8 @@ Code
 ### 3D Engines and Frameworks
 
 * :free: [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
-* :o2: [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. 
+* :o2: [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+* :o2: [Bevy](https://bevyengine.org/) - A data-driven game engine in the form of a Rust library.
 * :o2: [Bullet](https://github.com/bulletphysics/bullet3) - Real-time physics simulation.
 * :o2: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. 
 * :o2: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
