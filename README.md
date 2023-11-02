@@ -410,7 +410,8 @@ Tools
 
 ### IDE and Editors
 
-* :o2: [Atom](https://atom.io/) Highly customizable open source text editor 
+* :o2: [Atom](https://atom.io/) Highly customizable open source text editor
+* :free: [CodeLobster](https://codelobster.com/) - free cross-platform integrated development environment 
 * :free: [Eclipse](https://eclipse.org/) - integrated development environment mainly used for Java 
 * :o2: [Notepad++](https://notepad-plus-plus.org/) Notepad replacement that supports several languages. 
 * :heavy_dollar_sign: [Sublime Text](http://www.sublimetext.com/) Sophisticated text editor for code, markup and prose. 
