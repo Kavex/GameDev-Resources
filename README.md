@@ -182,6 +182,7 @@ Code
 * :o2: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * :o2: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
 * :free: [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy to any platform.
+* :o2: :triangular_flag_on_post: [Flax Engine](https://flaxengine.com/) - multi-platform 3D game engine
 * :o2: [gameplay3d](http://gameplay3d.io/) - 2D + 3D game framework written in C++ 
 * :o2: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. 
 * :o2: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine.
