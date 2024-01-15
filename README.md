@@ -478,6 +478,7 @@ Tools
 
 * :o2: [OGMO Editor](https://ogmo-editor-3.github.io/) - generic level editor. 
 * :free: [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor.
+* :free: [Sprite Fusion](https://www.spritefusion.com/) - Free tilemap editor running in the browser, export your tilemaps as native Unity Packages and Godot Maps.
 * :free: [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. 
 
 
