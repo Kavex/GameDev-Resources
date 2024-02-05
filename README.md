@@ -371,7 +371,7 @@ Tools
 * :free: [BeepBox](http://www.beepbox.co/) - online tool for sketching and sharing chiptune melodies 
 * :free: [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
 * :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. 
-* :free: [ChipTone](http://sfbgames.com/chiptone/) - Online sound effect generator 
+* :free: [ChipTone](https://sfbgames.itch.io/chiptone) - Online sound effect generator 
 * :free: [FamiTracker](http://famitracker.com/) - Produce music for the NES/Famicom-systems 
 * :free: [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 * :o2: [LMMS](https://lmms.io/) - digital audio workstation software 
