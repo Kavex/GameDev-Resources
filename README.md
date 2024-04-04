@@ -432,7 +432,7 @@ Tools
 * :heavy_dollar_sign: [SketchUp](http://www.sketchup.com/) - 3D modeling computer program for a wide range of drawing application 
 * :heavy_dollar_sign: [Maya](http://www.autodesk.com/products/maya/overview) Industry animation software 
 * :heavy_dollar_sign: [3ds Max](http://www.autodesk.com/products/3ds-max/overview) Industry modeling software 
-* :triangular_flag_on_post [Clara.io](https://clara.io/) - Start creating, rendering and sharing 3D 
+* :triangular_flag_on_post: [Clara.io](https://clara.io/) - Start creating, rendering and sharing 3D 
 
 ### Pixel Editor
 
