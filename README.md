@@ -30,12 +30,13 @@ Please remember to always look at the license before using something in your pro
 	- [Game Jams](#game-jams)
 	- [Magazines](#magazines)
 	- [Videos/Podcasts](#videospodcasts)
-- [Tools](#tools)
+	- [Tools](#tools)
 	- [Animation](#animation)
 	- [Audio](#audio-tools)
 	- [Bitmap Compression](#bitmap-compression)
 	- [Character Generators](#character-generators)
 	- [Design](#design-tools)
+  	- [Material](#material)
 	- [Modeling](#modeling)
 	- [Pixel Editor](#pixel-editor)
 	- [Spritesheet](#spritesheet)
@@ -420,6 +421,9 @@ Tools
 * :free: [Visual Studio Code](https://code.visualstudio.com/) Free. Built on open source. Runs everywhere. 
 * :free: [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE 
 
+### Material
+
+* :o2: [Material Maker](https://www.materialmaker.org/) - Material Maker is a procedural materials authoring tool based on the Godot Engine.
 
 ### Modeling
 
@@ -429,7 +433,6 @@ Tools
 * :heavy_dollar_sign: [Maya](http://www.autodesk.com/products/maya/overview) Industry animation software 
 * :heavy_dollar_sign: [3ds Max](http://www.autodesk.com/products/3ds-max/overview) Industry modeling software 
 * :triangular_flag_on_post [Clara.io](https://clara.io/) - Start creating, rendering and sharing 3D 
-
 
 ### Pixel Editor
 
