@@ -131,7 +131,7 @@ Code
 * :o2: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go. 
 * :o2: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. 
 * :o2: [EnchantJS](https://github.com/wise9/enchant.js) - A simple JavaScript framework for creating games and apps (old).
-* :heavy_dollar_sign: [GameMaker](https://www.yoyogames.com/) - Very good 2d engine if you are only interested in 2d 
+* :free: [GameMaker](https://gamemaker.io/) - Very good 2d engine if you are only interested in 2d 
 * :heavy_dollar_sign: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * :o2: [Gideros](http://giderosmobile.com/) - Mobile Cross-Platform framework using Lua programming language. 
 * :o2: [Glide Engine](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples. 
