@@ -65,7 +65,7 @@ Assets
 * :heavy_dollar_sign: [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets
 * :free: [Games-Icons Set](http://game-icons.net/) - free icons for your games.
 * :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. 
-* :triangular_flag_on_post: [Kenny Assets](http://kenney.nl/assets) - Royalty free assets 
+* :triangular_flag_on_post: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets 
 * :free: [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
 * :heavy_dollar_sign: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 * :free: [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites). 
