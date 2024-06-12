@@ -236,6 +236,7 @@ Code
 * :free: [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer 
 * :o2: [DotRecast](https://github.com/ikpil/DotRecast) - a port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * :o2: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too. 
+* :o2: [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 * :o2: [kitlang](https://www.kitlang.org/) - Kit is a programming language designed for creating concise, high performance cross-platform applications.
 * :o2: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library 
 * :o2: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger 
