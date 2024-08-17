@@ -82,14 +82,14 @@ Assets
 
 ### Audio Assets
 
-* :free: [GameSounds](https://gamesounds.xyz/) - Archive of all kinds of royalty-free game sounds. 
+* :free: [GameSounds](https://gamesounds.xyz/) - Archive of royalty-free game sounds. 
 * :free: [FreePD](http://freepd.com/) - Public Domain Music 
 * :free: [FreeSFX](http://www.freesfx.co.uk/) - free sound effects 
 * :free: [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds 
 * :free: [Kavex's GameSounds](https://github.com/Kavex/GameSounds) - Free sounds for any use 
 * :free: [Musopen](https://musopen.org/) - Royalty free music. 
 * :heavy_dollar_sign: [Nameless: the Hackers RPG Soundtrack](https://boxcat.bandcamp.com/album/nameless-the-hackers-rpg-soundtrack) - high-quality by BoxCat Games 
-* :free: [Octave](http://raisedbeaches.com/octave/index.html) - free library of UI sounds, handmade for iOS. 
+* :free: [Octave](http://raisedbeaches.com/octave/index.html) - a free library of UI sounds, handmade for iOS. 
 * :free: [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection. 
 * :free: [SoundBible.com](http://soundbible.com/) - Royalty-free of sound effects under various licenses. 
 
@@ -118,31 +118,32 @@ Code
 ### 2D Engines and Frameworks
 
 * :o2: [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. 
-* :o2: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor. 
+* :o2: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point-and-click adventure game engine and editor. 
 * :o2: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games. 
 * :o2: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib. 
 * :o2: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
-* :o2: [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language 
-* :free: [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. 
-* :triangular_flag_on_post: [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting. 
+* :o2: [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for Python language 
+* :free: [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. It uses C++ but has JS and Lua bindings. 
+* :triangular_flag_on_post: [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not writing JavaScript. Instead, you use actions, events, and conditions to do the heavy lifting. 
 * :o2: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 * :free: [Defold](http://www.defold.com/) 2D game engine by King 
-* :free: [EasyRPG](https://easyrpg.org/) - role playing game creation tool compatible with RPG Maker 2000/2003 games 
+* :free: [EasyRPG](https://easyrpg.org/) - Role-playing game creation tool compatible with RPG Maker 2000/2003 games 
 * :o2: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go. 
 * :o2: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. 
 * :o2: [EnchantJS](https://github.com/wise9/enchant.js) - A simple JavaScript framework for creating games and apps (old).
-* :free: [GameMaker](https://gamemaker.io/) - Very good 2d engine if you are only interested in 2d 
+* :heavy_dollar_sign: [GameMaker](https://www.yoyogames.com/) - Very good 2D game engine
 * :heavy_dollar_sign: [GameSalad](https://gamesalad.com/) - Game Creation Engine for Mac and Windows.
 * :o2: [Gideros](http://giderosmobile.com/) - Mobile Cross-Platform framework using Lua programming language. 
-* :o2: [Glide Engine](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS and tvOS, with practical examples. 
+* :o2: [Glide Engine](https://github.com/cocoatoucher/Glide) - Game engine for making 2d games on iOS, macOS, and tvOS, with practical examples.
+* :o2: [Godot](https://www.godot.org/) - Open-source 2D and 3D game engine with a propietary langauge known as GDScript. It can also be used in C# and C++.
 * :o2: [Gosu](https://www.libgosu.org/) - 2D game development library for Ruby and C++ 
 * :o2: [HaxeFlixel](http://haxeflixel.com/) - Create cross-platform games easier and free in Haxe.
-* :o2: [HEAPS.io](https://heaps.io) - A mature cross-platform graphics engine for high performance games written in Haxe.
+* :o2: [HEAPS.io](https://heaps.io) - A mature cross-platform graphics engine for high-performance games written in Haxe.
 * :o2: [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications 
 * :o2:[JNGL](https://github.com/jhasse/jngl) - 2D C++ Cross-Platform engine for Nintendo Switch, Xbox, Linux, Windows, OS X, Web, Android, iOS and more.
 * :o2: [Juno TypeScript](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 * :o2: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
-* :o2: [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
+* :o2: [Kivy](http://kivy.org) - Cross-platform Python framework for creating apps and games for Linux, Windows, OS X, Android, and iOS
 * :o2: [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS. 
 * :o2: [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development. 
 * :o2: [LÖVE](http://love2d.org) - Lua 2D Game Engine, very good game jam engine. 
@@ -150,19 +151,19 @@ Code
 * :o2: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
 * :o2: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine. 
 * :o2: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework. 
-* :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
+* :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create a generative design.
 * :o2: [OpenFL](http://www.openfl.org/) - Open Source Haxe Engine for making multi-platform games.
 * :o2:[OpenRA](http://www.openra.net/) - OpenRA is a Libre/Free Real Time Strategy Game Engine.
 * :o2:[ORX](https://orx-project.org/) - ORX is a 2.5D Data-driven C/C++ open source & multi-platform Game Engine.
-* :heavy_dollar_sign: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing and playing tiny games and other computer programs.
+* :heavy_dollar_sign: [PICO-8](http://www.lexaloffle.com/pico-8.php) - A fantasy console for making, sharing, and playing tiny games and other computer programs.
 * :o2: [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine. 
-* :o2: [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-* :o2: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
+* :o2: [Phaser](http://phaser.io/) -  Free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* :o2: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. The main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
 * :free: [PuzzleScript](http://www.puzzlescript.net/) - open-source HTML5 puzzle game engine.
 * :o2: [PyGame](https://github.com/pygame/pygame) - a 2D game engine in Python.
 * :heavy_dollar_sign: [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
 * :free: [Ren'Py](http://www.renpy.org/) - visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS 
-* :free: [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+* :free: [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low-level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
 * :free: [SFML](http://www.sfml-dev.org/) - Simple and Fast Multimedia Library. 
 * :o2: [Solar2D](https://github.com/coronalabs/corona) - A Cross-Platform Mobile App Development for iOS and Android (corona).
 * :free: [Solarus](http://www.solarus-games.org/) a free and open-source Action-RPG (Zelda) game engine
@@ -171,7 +172,7 @@ Code
 * :o2: [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 * :free: [Stencyl](https://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
 * :o2: [Tilengine](http://www.tilengine.org/) - C Engine with wrappers for C#, Python and Java.
-* [Tiny Computer](https://tic80.com/) - open source fantasy computer for making, playing and sharing tiny games.
+* [Tiny Computer](https://tic80.com/) - open-source fantasy computer for making, playing, and sharing tiny games.
 
 
 ### 3D Engines and Frameworks
@@ -180,10 +181,10 @@ Code
 * :o2: [bgfx](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * :o2: [Bevy](https://bevyengine.org/) - A data-driven game engine in the form of a Rust library.
 * :o2: [Bullet](https://github.com/bulletphysics/bullet3) - Real-time physics simulation.
-* :o2: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. 
+* :o2: [Cinder](https://libcinder.org/) - Cinder is a community-developed, free, and open-source library for professional-quality creative coding in C++. 
 * :o2: [Dash](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * :o2: [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - A modern cross-platform low-level graphics library that supports Direct3D11, Direct3D12, OpenGL/GLES, and Vulkan.
-* :free: [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy to any platform.
+* :free: [Evergine](https://evergine.com/) - The graphics development engine for business and industry. Build high-quality 3D solutions and deploy them to any platform.
 * :o2: :triangular_flag_on_post: [Flax Engine](https://flaxengine.com/) - multi-platform 3D game engine
 * :o2: [gameplay3d](http://gameplay3d.io/) - 2D + 3D game framework written in C++ 
 * :o2: [Godot](http://www.godotengine.org/) - An advanced, feature-packed, multi-platform 2D and 3D open-source game engine. 
@@ -192,11 +193,11 @@ Code
 * :o2: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * :free: [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 * :o2: [Amazon Lumberyard]([https://aws.amazon.com/pt/lumberyard/](https://github.com/o3de/o3de)) - Amazon Lumberyard is a free AAA game engine deeply integrated
-* :o2: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics. 
+* :o2: [ODE](http://www.ode.org/) - ODE is an open-source, high-performance library for simulating rigid body dynamics. 
 * :free: [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * :triangular_flag_on_post: [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
 * :o2: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
-* :o2: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust. 
+* :o2: [Piston](http://www.piston.rs/) - a modular open-source game engine written in Rust. 
 * :free: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine with limited free
 * :o2: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 * :o2: [Raylib](https://www.raylib.com/) - A simple 2D and 3D graphics library, with bindings available in numerous programming languages.
@@ -205,7 +206,7 @@ Code
 * :heavy_dollar_sign: [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software
 * :free: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 * :o2: [Three.js](http://threejs.org/) - Javascript 3D Library.
-* :free: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate and monetise high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
+* :free: [Turbulenz](http://biz.turbulenz.com/developers) - Turbulenz offers the ability to build, publish, iterate, and monetize high-quality games that react like no others, with immersive 3D effects and real-time physics that open up a whole new world of unprecedented and extraordinary web content.
 * :free: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
 * :free: [Unreal Engine 4](https://www.unrealengine.com/) - the new game engine technology developed by Epic Games.
 * :o2: [Urho3D](http://urho3d.github.io/) - Cross-platform rendering and game engine.+
@@ -350,7 +351,7 @@ Meta
 
 ### Videos/Podcasts
 
-* :o2: [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc). 
+* :o2: [awesome-gametalks](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, YouTube, etc). 
 * :free: [BigSushi](http://www.bigsushi.fm/) - BigSushi GameDev Podcast 
 * :free: [TheChernoProject](https://www.youtube.com/user/TheChernoProject) - TheChernoProject youtube channel 
 
@@ -364,7 +365,7 @@ Tools
 * :o2: [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - record a selected area of your screen and save it as a Gif 
 * :heavy_dollar_sign: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games. 
 * :o2: [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash 
-* :o2: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more. 
+* :o2: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine that can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more. 
 
 
 ### Audio Tools
@@ -373,18 +374,18 @@ Tools
 * :o2: [Audacity](http://sourceforge.net/projects/audacity/) - cross-platform software for recording and editing sounds. 
 * :free: [BeepBox](http://www.beepbox.co/) - online tool for sketching and sharing chiptune melodies 
 * :free: [Bfxr](http://www.bfxr.net/) - A tool to make sound effects for computer games.
-* :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, has a distinctive retro-ish sound. 
+* :free: [Bosca Ceoil](http://boscaceoil.net/) - Online (and also desktop) music producer made by Terry Cavanagh. Simple, intuitive, and has a distinctive retro-ish sound. 
 * :free: [ChipTone](https://sfbgames.itch.io/chiptone) - Online sound effect generator 
 * :free: [FamiTracker](http://famitracker.com/) - Produce music for the NES/Famicom-systems 
 * :free: [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 * :o2: [LMMS](https://lmms.io/) - digital audio workstation software 
-* :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
+* :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™, and ReWire™ support.
 * :o2: [Musagi](http://www.drpetter.se/project_musagi.html) - fairly large and sophisticated music editor and synthesizer 
 * :free: [PulseBoy](http://www.pulseboy.com/) web-based musical sequencer which only uses 8bit sounds and samples 
 * :o2: [Rosegarden](http://www.rosegardenmusic.com/) - music composition and editing environmen 
 * :o2: [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. 
 * :heavy_dollar_sign: [Soundation](https://soundation.com/) - Online Professional music studio.
-* :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
+* :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with a pattern-based sequencer (tracker).
 * :o2: [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D 
 
 
