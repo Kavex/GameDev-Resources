@@ -65,7 +65,7 @@ Assets
 * :heavy_dollar_sign: [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets
 * :free: [Games-Icons Set](http://game-icons.net/) - free icons for your games.
 * :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. 
-* :triangular_flag_on_post: [Kenny Assets](http://kenney.nl/assets) - Royalty-free assets 
+* :triangular_flag_on_post: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets 
 * :free: [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
 * :heavy_dollar_sign: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 * :free: [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites). 
@@ -236,8 +236,9 @@ Code
 
 * :free: [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer 
 * :o2: [DotRecast](https://github.com/ikpil/DotRecast) - a port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
-* :o2: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy-to-use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too. 
-* :o2: [kitlang](https://www.kitlang.org/) - Kit is a programming language designed for creating concise, high-performance cross-platform applications.
+* :o2: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too. 
+* :o2: [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+* :o2: [kitlang](https://www.kitlang.org/) - Kit is a programming language designed for creating concise, high performance cross-platform applications.
 * :o2: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library 
 * :o2: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger 
 
