@@ -299,6 +299,7 @@ Meta
 * [WhatGamesAre](http://www.whatgamesare.com/featured-posts.html)
 * [iforce2d](http://www.iforce2d.net/)
 * [indiegames](http://indiegames.com/index.html)
+* [gameidea](https://gameidea.org) - game development tutorials
 
 
 ### Books
