@@ -446,11 +446,12 @@ Tools
 ### Spritesheet
 
 * :o2: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool 
-* :free: [GlueIT](https://github.com/Kavex/GlueIT) Free Simple Spritesheet Tool 
+* :free: [GlueIT](https://github.com/Kavex/GlueIT) Free Simple Spritesheet Tool
 * :free: [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases 
 * :o2: [Libgdx Texture Packer](https://libgdx.com/wiki/) - Texture Packer built into Libgdx 
 * :free: [MakeAtlas](http://www.skn3.com/junk/makeatlas/makeatlas1.12.zip) - Simple tool to pack a texture atlas 
-* :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools. 
+* :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
+* :o2: [Kavex's Spritesheet Maker](https://github.com/Kavex/Spritesheet-Maker) - Free spritesheet maker to replace GlueIT. Has much newer export formats. 
 * :triangular_flag_on_post: [SpriteUV2](https://www.spriteuv.com/) - tool for creating optimal meshes for textures/sprites and packing them into an atlas. 
 * :o2: [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator 
 * :heavy_dollar_sign: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. 
