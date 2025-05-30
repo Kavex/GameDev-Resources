@@ -30,6 +30,7 @@ Please remember to always look at the license before using something in your pro
 	- [Magazines](#magazines)
 	- [Videos/Podcasts](#videospodcasts)
 - [Tools](#tools)
+	- [AI](#ai) 
 	- [Animation](#animation)
 	- [Audio](#audio-tools)
 	- [Bitmap Compression](#bitmap-compression)
@@ -354,6 +355,10 @@ Meta
 
 Tools
 --------
+
+### AI
+* :triangular_flag_on_post: [Coplay](https://coplay.dev?ref=github&utm_source=gamedev_resources) - Multi-agent AI Assistant designed to amplify developer impact in Unity 
+* :triangular_flag_on_post: [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
 
 ### Animation
 
