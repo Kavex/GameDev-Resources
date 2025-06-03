@@ -109,6 +109,7 @@ Code
 
 * [AdMob by Google](https://admob.google.com/home/games/) - Google's Ads and monetization service for mobile.
 * [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
+* [Loomit](https://loomit.ai) - An intelligent ad monetization platform for mobile apps.
 * [Unity Ads](https://unity3d.com/services/ads) - Unity3D Official Ads SDK.
 
 
