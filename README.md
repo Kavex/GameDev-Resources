@@ -425,7 +425,8 @@ Tools
 
 ### Modeling
 
-* :o2: [Blender](http://www.blender.org/) - free and open source 3D creation suite 
+* :o2: [Blender](http://www.blender.org/) - free and open source 3D creation suite
+* :o2: [Vesper Tools for Blender](https://github.com/vesper-astrena/blender-quick-exporter) - 10 free Blender addons for game asset workflows: batch export, mesh QC, modifier management, UV tools, scene cleanup, and more (MIT)
 * :free: [ZBrush Mini](https://www.maxon.net/en/zbrushcoremini) digital sculpting software  https://www.maxon.net/en/zbrushcoremini?srsltid=AfmBOoryGzofz3nAMXtBpWOpaSYfQpDqlAYeG8TOLSGjb3DimDW-JDGU
 * :heavy_dollar_sign: [SketchUp](http://www.sketchup.com/) - 3D modeling computer program for a wide range of drawing application 
 * :heavy_dollar_sign: [Maya](http://www.autodesk.com/products/maya/overview) Industry animation software 
