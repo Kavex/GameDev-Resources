@@ -197,6 +197,7 @@ Code
 * :free: [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine with limited free
 * :o2: [Rajawali](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 * :o2: [Raylib](https://www.raylib.com/) - A simple 2D and 3D graphics library, with bindings available in numerous programming languages.
+* :triangular_flag_on_post: [Rosebud AI](https://rosebud.ai) - Vibe coding platform for creating 3D games and interactive web apps with AI.
 * :free: [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine
 * :free: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
 * :heavy_dollar_sign: [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software
