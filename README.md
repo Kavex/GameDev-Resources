@@ -204,7 +204,6 @@ Code
 * :o2: [Raylib](https://www.raylib.com/) - A simple 2D and 3D graphics library, with bindings available in numerous programming languages.
 * :free: [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine
 * :free: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
-* :heavy_dollar_sign: [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software
 * :o2: [Stride](https://www.stride3d.net/) -  open-source C# game engine designed for both 2D and 3D games, as well as any other interactive content
 running on desktop and VR
 * :free: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
