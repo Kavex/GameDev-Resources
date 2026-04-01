@@ -30,6 +30,7 @@ Please remember to always look at the license before using something in your pro
 	- [Magazines](#magazines)
 	- [Videos/Podcasts](#videospodcasts)
 - [Tools](#tools)
+	- [AI](#ai) 
 	- [Animation](#animation)
 	- [Audio](#audio-tools)
 	- [Bitmap Compression](#bitmap-compression)
@@ -232,7 +233,7 @@ running on desktop and VR
 * :free: [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer 
 * :o2: [DotRecast](https://github.com/ikpil/DotRecast) - a port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * :o2: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too. 
-* :o2: [Friflo.Engine.ECS](https://github.com/friflo/Friflo.Json.Fliox/blob/main/Engine/README.md) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
+* :o2: [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
 * :o2: [kitlang](https://www.kitlang.org/) - Kit is a programming language designed for creating concise, high performance cross-platform applications.
 * :o2: [p2.js](http://schteppe.github.io/p2.js/) - JavaScript 2D physics library 
 * :o2: [SimpleAI](https://github.com/mgerhardy/simpleai/) - C++ AI behaviour tree based library with a QT5 based remote debugger 
@@ -355,6 +356,10 @@ Meta
 Tools
 --------
 
+### AI
+* :triangular_flag_on_post: [Coplay](https://coplay.dev?ref=github&utm_source=gamedev_resources) - Multi-agent AI Assistant designed to amplify developer impact in Unity 
+* :triangular_flag_on_post: [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
+
 ### Animation
 
 * :heavy_dollar_sign: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers. https://patlegoman.itch.io/fusion-character-animator
@@ -432,7 +437,9 @@ Tools
 * :heavy_dollar_sign: [Maya](http://www.autodesk.com/products/maya/overview) Industry animation software 
 * :heavy_dollar_sign: [3ds Max](http://www.autodesk.com/products/3ds-max/overview) Industry modeling software 
 * :triangular_flag_on_post: [Clara.io](https://clara.io/) - Start creating, rendering and sharing 3D 
+* :triangular_flag_on_post: [NativeBlend CLI](https://github.com/addy999/nativeblend-cli) - AI-powered CLI tool to generate and edit low-poly 3D game assets in Blender from natural language prompts
 * :heavy_dollar_sign: [Packyderm](https://isometric8.itch.io/packyderm-unitypackage-extractor) A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
+
 
 ### Pixel Editor
 
