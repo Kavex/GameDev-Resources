@@ -90,15 +90,19 @@ Assets
 * :heavy_dollar_sign: [Nameless: the Hackers RPG Soundtrack](https://boxcat.bandcamp.com/album/nameless-the-hackers-rpg-soundtrack) - high-quality by BoxCat Games 
 * :free: [Octave](http://raisedbeaches.com/octave/index.html) - a free library of UI sounds, handmade for iOS. 
 * :free: [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection. 
+* :heavy_dollar_sign: [Soundrangers](https://www.soundrangers.com) - high-quality sound effects and music.
 
 
 ### Multiple Graphic Collections
 
+* :free: [AmbientCG](https://www.ambientcg.com) - A huge library of free PBR materials and HDR skies. 
 * :triangular_flag_on_post: [CGTextures](http://www.textures.com) - A large collection of textures. 
 * :heavy_dollar_sign: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators. 
 * :triangular_flag_on_post: [LotPixel](https://www.lotpixel.com/) - A huge assets library. Photogrammetry and PBR Textures, 3D Models, Decals. 1500+ Free Texture Available. 
 * :free: [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. 
+* :free: [PBRPX](https://www.pbrpx.com) - A huge library of free PBR materials, and some 3D models. 
 * :free: [PlainTextures](http://www.plaintextures.com/) -  Free high resolution textures, brushes and photos 
+* :free: [Polyhaven](https://www.polyhaven.com) - A huge library of free PBR materials, 3D models, and HDR skies.
 * :triangular_flag_on_post: [Sketchfab](https://sketchfab.com/) -  Publish & embed interactive 3D models. 
 * :free: [Vecteezy](http://www.vecteezy.com/) -  Free Vector Art. 
 
@@ -189,6 +193,7 @@ Code
 * :o2: [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. 
 * :o2: [jMonkeyEngine 3](http://jmonkeyengine.org/) - a 3D open-source game engine for adventurous Java developers.
 * :free: [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
+* :heavy_dollar_sign: [Leadwerks](https://www.leadwerks.com) - High-performance 3D game engine for C++ and Lua, with advanced level editor.
 * :o2: [ODE](http://www.ode.org/) - ODE is an open-source, high-performance library for simulating rigid body dynamics. 
 * :free: [Ogre3D](http://www.ogre3d.org/) -  is a scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++.
 * :triangular_flag_on_post: [OpenXRay](https://github.com/OpenXRay/xray-16) - a community-modified X-Ray engine used in S.T.A.L.K.E.R. game series.
@@ -200,7 +205,6 @@ Code
 * :o2: [Raylib](https://www.raylib.com/) - A simple 2D and 3D graphics library, with bindings available in numerous programming languages.
 * :free: [Source](https://developer.valvesoftware.com/wiki/Main_Page) Valve's Flagship engine
 * :free: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
-* :heavy_dollar_sign: [Stingray](http://www.autodesk.com/products/stingray/) - 3D game engine and real-time rendering software
 * :o2: [Stride](https://www.stride3d.net/) -  open-source C# game engine designed for both 2D and 3D games, as well as any other interactive content
 running on desktop and VR
 * :free: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
@@ -222,7 +226,8 @@ running on desktop and VR
 * :o2: [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II) 
 * :o2: [Quake 2](https://github.com/id-Software/Quake-2)
 * :o2: [Quake III Arena](https://github.com/id-Software/Quake-III-Arena) 
-* :o2: [Quake](https://github.com/id-Software/Quake) 
+* :o2: [Quake](https://github.com/id-Software/Quake)
+* :free: [SCP - Containment Breach](https://github.com/regalis11/scpcb)
 * :o2: [SimCity](https://github.com/simhacker/micropolis) 
 * :o2: [Wolfenstein 3D](https://github.com/id-Software/wolf3d) 
 * :o2: [Delver](https://github.com/Interrupt/delverengine) 
