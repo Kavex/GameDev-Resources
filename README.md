@@ -272,6 +272,7 @@ Design
 * :triangular_flag_on_post: [ClickUp](https://clickup.com/) -  One app to replace them all. 
 * :heavy_dollar_sign: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games 
 * :triangular_flag_on_post: [HacknPlan](http://hacknplan.com/) - Project management for game developers 
+* :triangular_flag_on_post: [Questlog](https://www.questlog.build) - Project management built for game developers. Kanban boards, bug tracking with severity, milestones, and a built-in GDD editor. Free for solo devs. 
 * :triangular_flag_on_post: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers 
 * :triangular_flag_on_post: [Trello](https://trello.com/) - Organize and prioritize projects 
 
