@@ -121,7 +121,8 @@ Code
 
 * :o2: [Allegro](http://liballeg.org/) - Allegro 4 & 5 are cross-platform, open source, game programming libraries, primarily for C and C++ developers. 
 * :o2: [Bladecoder](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point-and-click adventure game engine and editor. 
-* :o2: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games. 
+* :o2: [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
+* :o2: [Ceramic](https://ceramic-engine.com/) - Haxe Cross-platform 2D framework that natively exports to Windows, Mac, Linux, iOS, Android, HTML5/WebGL and even Unity projects.
 * :o2: [Chipmunk C#](https://github.com/netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib. 
 * :o2: [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 * :o2: [Cocos2D](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for Python language 
