@@ -147,7 +147,8 @@ Code
 * :o2: [Juno TypeScript](https://github.com/digitsensitive/juno) - Clean and lightweight 2D game framework written in TypeScript
 * :o2: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * :o2: [Kivy](http://kivy.org) - Cross-platform Python framework for creating apps and games for Linux, Windows, OS X, Android, and iOS
-* :o2: [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development. 
+* :o2: [Lums](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
+* :o2: [Litecanvas](https://github.com/litecanvas/game-engine) -  Lightweight (~4kb) HTML5 canvas 2D engine suitable for small games, prototypes, creative coding, etc. 
 * :o2: [LÖVE](http://love2d.org) - Lua 2D Game Engine, very good game jam engine. 
 * :o2: [MINX](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA) 
 * :o2: [Matter.js](http://brm.io/matter-js/) - a 2D physics engine for the web.
