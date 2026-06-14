@@ -173,6 +173,7 @@ Code
 * :free: [SpriteKit](https://developer.apple.com/spritekit/) - SpriteKit code to make your game work on iOS, macOS, and tvOS without a hitch.
 * :o2: [Stage.js](http://piqnt.com/stage.js/) - Lightweight and fast 2D HTML5 rendering and layout engine for cross-platform game development.
 * :free: [Stencyl](https://www.stencyl.com/) -  a game creation platform that allows users to create 2D video games for computers, mobile devices, and the web.
+* :heavy_dollar_sign: [Summer Engine](https://www.summerengine.com) - AI-native game engine. Build real 2D and 3D games through conversation and export to Steam, desktop, and mobile. Compatible with Godot 4.
 * :o2: [Tilengine](http://www.tilengine.org/) - C Engine with wrappers for C#, Python and Java.
 * [Tiny Computer](https://tic80.com/) - open-source fantasy computer for making, playing, and sharing tiny games.
 
@@ -208,6 +209,7 @@ Code
 * :free: [Spring](http://springrts.com/) - A powerful free cross-platform RTS engine.
 * :o2: [Stride](https://www.stride3d.net/) -  open-source C# game engine designed for both 2D and 3D games, as well as any other interactive content
 running on desktop and VR
+* :heavy_dollar_sign: [Summer Engine](https://www.summerengine.com) - AI-native game engine. Build real 2D and 3D games through conversation and export to Steam, desktop, and mobile. Compatible with Godot 4.
 * :free: [Superpowers](https://sparklinlabs.itch.io/superpowers) - HTML5 Collaborative 2D/3D Game Maker
 * :o2: [Three.js](http://threejs.org/) - Javascript 3D Library.
 * :free: [Unity 3D](http://unity3d.com/) - A development engine for the creation of 2D and 3D games and interactive content.
