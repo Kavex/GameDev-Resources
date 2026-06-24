@@ -570,3 +570,8 @@ A selection of major game studios, publishers, etc. using GitHub:
 <br>
 
 * [More games on Github](https://github.com/leereilly/games/)
+
+## Community Resource Additions
+
+<!-- Added 2026-06-24 by zlc000190 -->
+- [Meccha Chameleon Art](https://mecchachameleon.art/) — Fan-made browser companion for Meccha Chameleon (paint-based hide-and-seek Steam game). 50+ hiding spot atlas with color analysis, bilingual (EN/中文). GitHub: https://github.com/zlc000190/AwesomeMecchaChameleonHideSpot
