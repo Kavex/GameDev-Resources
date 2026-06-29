@@ -491,6 +491,7 @@ Tools
 ### Texturing
 
 * :heavy_dollar_sign: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters. 
+* :free: [Mixos](https://www.mixos.io) - Browser-based 3D texture painter — paint, layer & mask PBR materials on any model, bake maps, generate with AI, export render-ready maps. No install.
 * :heavy_dollar_sign: [PixPlant](http://www.pixplant.com/) - Smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos. 
 
 
