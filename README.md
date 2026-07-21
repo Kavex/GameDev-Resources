@@ -411,6 +411,7 @@ Tools
 ### Character Generators
 
 * :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker. 
+* :free: [Japanese Name Generator](https://japanesenamegen.com) - Generates authentic Japanese character names with kanji, readings and meanings. 
 
 
 ### Design Tools
