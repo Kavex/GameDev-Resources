@@ -218,6 +218,7 @@ running on desktop and VR
 
 ### Game Source Code
 
+* :o2: [ALIS](https://github.com/fallintodusk/alis)
 * :o2: [BrowserQuest](https://github.com/mozilla/BrowserQuest) 
 * :o2: [Diablo](https://github.com/diasurgical/devilution) 
 * :o2: [Doom 3](https://github.com/id-Software/DOOM-3) 
