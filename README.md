@@ -418,6 +418,7 @@ Tools
 * :heavy_dollar_sign: [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content. 
 * :free: [Dundoc](http://www.dundoc.com/) Game Design starter Template 
 * :triangular_flag_on_post: [Levelry](https://levelry.app) — Visual knowledge management and canvas for game designers.
+* :o2: [Palette Extractor](https://pixelpixi.github.io/spritewright/palette-extractor/) - Browser tool that extracts the exact colour palette out of any sprite or image and exports it as GIMP .gpl, Aseprite .pal, Lospec .hex, CSS, JSON or a PNG strip. Runs locally, nothing uploaded.
 * :free: [Palette Viewer](https://isometric8.itch.io/palette-viewert) A free tool to visualise palette files, supports hex, gimp, pal, text and images
 * :heavy_dollar_sign: [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents  
 * :free: [Tiny Game Design Tool](http://tinygdtool.urustar.net) small, portable booklet created in order to help game designers. 
