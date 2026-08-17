@@ -365,6 +365,7 @@ Tools
 
 ### AI
 * :triangular_flag_on_post: [Coplay](https://coplay.dev?ref=github&utm_source=gamedev_resources) - Multi-agent AI Assistant designed to amplify developer impact in Unity 
+* :triangular_flag_on_post: [Ludo.ai](https://ludo.ai) - AI sprite generator for game-ready 2D assets, extending to icons, UI, textures, music, 3D and video, in 30+ art styles, with MCP, REST API and Unity plugin integrations 
 * :triangular_flag_on_post: [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
 
 ### Animation
