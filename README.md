@@ -454,6 +454,7 @@ Tools
 * :heavy_dollar_sign: [Aseprite](http://www.aseprite.org/) - Animated sprite editor & pixel art tool 
 * :heavy_dollar_sign: [Hexels](https://www.marmoset.co/hexels/) - intuitive 2D, grid-based painting tool 
 * :heavy_dollar_sign: [Lightcube](https://www.lightcube.art/) - A pixel art editing tool for game developers and artists alike
+* :heavy_dollar_sign: [Phluxel](https://phluxel.com/) - Cellular automata pixel art editor: paint a grid, write one rule, watch it animate. Rule scripting language, GIF/sprite sheet export, free edition available.
 * :heavy_dollar_sign: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. 
 * :o2: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. 
 * :free: [Pixa.Pics](https://pixa.pics/) - Load any image on the web app as a pixel art. Then, draw, and eventually vectorize art.  
