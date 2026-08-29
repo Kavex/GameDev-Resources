@@ -415,13 +415,14 @@ Tools
 
 ### Design Tools
 
-* :heavy_dollar_sign: [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content. 
-* :free: [Dundoc](http://www.dundoc.com/) Game Design starter Template 
+* :heavy_dollar_sign: [articy:draft](http://www.nevigo.com/en/articydraft/overview/) visual environment for the creation and organization of game content.
+* :free: [Dundoc](http://www.dundoc.com/) Game Design starter Template
 * :triangular_flag_on_post: [Levelry](https://levelry.app) — Visual knowledge management and canvas for game designers.
 * :free: [Palette Viewer](https://isometric8.itch.io/palette-viewert) A free tool to visualise palette files, supports hex, gimp, pal, text and images
-* :heavy_dollar_sign: [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents  
-* :free: [Tiny Game Design Tool](http://tinygdtool.urustar.net) small, portable booklet created in order to help game designers. 
-* :o2: [Twine](http://twinery.org/) - Open-source tool for telling interactive, nonlinear stories. 
+* :heavy_dollar_sign: [Scrivener](https://www.literatureandlatte.com/scrivener.php) Helps concentrate on composing and structuring long and difficult documents
+* :triangular_flag_on_post: [Strudo](https://strudoapp.com/) — Game development documentation platform for creating and managing GDDs and other production documents.
+* :free: [Tiny Game Design Tool](http://tinygdtool.urustar.net) small, portable booklet created in order to help game designers.
+* :o2: [Twine](http://twinery.org/) - Open-source tool for telling interactive, nonlinear stories.
 
 ### IDE and Editors
 
