@@ -309,6 +309,7 @@ Meta
 
 * :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th) 
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
+* :free: [AI Workflow for Game Designers](https://eremes81.github.io/game-design-ai-practice-en/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
 * [Flow](http://www.amazon.com/Flow-The-Psychology-Optimal-Experience/dp/0061339202/)
