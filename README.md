@@ -516,6 +516,7 @@ Tools
 ### Voxel Editors
 
 * :o2: [goxel](https://github.com/guillaumechereau/goxel) - Open source 3D voxel editor 
+* :triangular_flag_on_post: [VoxelDraft](https://voxeldraft.com/en/voxel-model-maker/) - Browser-based voxel editor for game-asset prototypes with animation and OBJ, GLB, VOX, Minecraft `.schem`, and Roblox `.rbxl` exports.
 * :o2: [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects 
 
 
