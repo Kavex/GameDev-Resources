@@ -81,6 +81,7 @@ Assets
 
 ### Audio Assets
 
+* :free: [BudgetPixel Sound Effects](https://budgetpixel.com/sfx) - 2,600+ AI-generated sound effects and 700+ [music tracks](https://budgetpixel.com/background-music), WAV/MP3, CC BY 4.0.
 * :free: [GameSounds](https://gamesounds.xyz/) - Archive of royalty-free game sounds. 
 * :free: [FreePD](http://freepd.com/) - Public Domain Music 
 * :free: [FreeSFX](http://www.freesfx.co.uk/) - free sound effects 
