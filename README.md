@@ -95,6 +95,7 @@ Assets
 
 ### Multiple Graphic Collections
 
+* :free: [3DTexel](https://3dtexel.com/free-library/) - 1,650+ handmade CC0 assets: PBR materials, HDRIs, decals, 3D models and IES lights (free account required).
 * :free: [AmbientCG](https://www.ambientcg.com) - A huge library of free PBR materials and HDR skies. 
 * :triangular_flag_on_post: [CGTextures](http://www.textures.com) - A large collection of textures. 
 * :heavy_dollar_sign: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators. 
