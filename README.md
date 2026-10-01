@@ -370,6 +370,7 @@ Tools
 ### Animation
 
 * :heavy_dollar_sign: [Fusion Character Animator](http://loopengo.free.fr/) - small tool for Clickteam Fusion 2.5 to facilitate the animation of 2D character sprites for developers. https://patlegoman.itch.io/fusion-character-animator
+* :heavy_dollar_sign: [Riggy](https://riggyapp.com/) - AI rigs a layered PSD into a Spine 4.2 skeleton with animations from a text description; exports plain skeleton.json and atlas.
 * :o2: [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - record a selected area of your screen and save it as a Gif 
 * :heavy_dollar_sign: [Spine](http://esotericsoftware.com/) - Spine is dedicated to 2D animation, providing an efficient workflow both for creating amazing animation and for integrating it into your games. 
 * :o2: [DragonBones](http://dragonbones.effecthub.com) - The Open Source 2D skeleton animation solution for Flash 
