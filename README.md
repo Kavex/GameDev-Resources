@@ -251,6 +251,7 @@ Design
 
 * :free: [Boardgamizer](http://www.boardgamizer.com) - Board Game Design Idea Generator. 
 * :free: [Gigster](http://www.ludocraft.com/gigster/) Randomized Game Idea Generator  
+* :free: [NamesPlease](https://namesplease.app/) - Browser-based name generators for game worlds: towns, kingdoms, taverns, ships, swords, dragons and gamertags.
 * :free: [RPTools](http://www.rptools.net) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games. 
 * :free: [Video Game Name Generator](https://videogamena.me) Randomized video games names 
 
