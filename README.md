@@ -237,6 +237,7 @@ running on desktop and VR
 ### Modules and Additional API
 
 * :free: [AirConsole](https://developers.airconsole.com/#!/)- Add controller support using broswer 
+* :free: [Bounty Board Arcade SDK](https://www.bountyboard.gg/arcade/sdk) - Leaderboards, cloud saves, rewarded ads and multiplayer rooms for HTML5 games. Zero runtime dependencies, npm or script tag.
 * :o2: [DotRecast](https://github.com/ikpil/DotRecast) - a port of Recast & Detour, navigation mesh toolset for games, Unity3D, servers, C#
 * :o2: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too. 
 * :o2: [friflo ECS](https://github.com/friflo/Friflo.Engine.ECS) - High-performance C# ECS with simple API. Supports .NET, WASM/WebAssembly, Native AOT, Unity, Godot, MonoGame, ...
@@ -257,6 +258,7 @@ Design
 
 ### Marketing and PR
 
+* :heavy_dollar_sign: [Bounty Board](https://www.bountyboard.gg/for-studios) - Creator marketing for indie games. Studios post paid campaigns that YouTube, Twitch and TikTok creators apply to.
 * :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games 
 * :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing 
 
