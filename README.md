@@ -97,6 +97,7 @@ Assets
 
 * :free: [AmbientCG](https://www.ambientcg.com) - A huge library of free PBR materials and HDR skies. 
 * :triangular_flag_on_post: [CGTextures](http://www.textures.com) - A large collection of textures. 
+* :o2: [Free for Creators](https://github.com/skyzhao1223/free-for-creators) - License-verified directory of free game and creator assets (3D models, PBR textures, game audio, icons, CJK fonts for localisation), with license, attribution and monetization stated per entry.
 * :heavy_dollar_sign: [GameDev Market](https://www.gamedevmarket.net/) - a community-driven marketplace that connects indie game developers with talented asset creators. 
 * :triangular_flag_on_post: [LotPixel](https://www.lotpixel.com/) - A huge assets library. Photogrammetry and PBR Textures, 3D Models, Decals. 1500+ Free Texture Available. 
 * :free: [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects. 
