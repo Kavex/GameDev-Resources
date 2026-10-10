@@ -296,6 +296,7 @@ Meta
 * [Java Gaming](http://www.java-gaming.org/)
 * [Lost Garden](http://www.lostgarden.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
+* :free: [Somurra Arcade Club](https://somurra.com/juegos/donde-publicar) - Free portal to publish original browser games (Unity WebGL, Godot, GameMaker, HTML5); creators keep 75% of player treasures. Spanish-language.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)
