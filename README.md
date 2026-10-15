@@ -429,6 +429,7 @@ Tools
 * :free: [CodeLobster](https://codelobster.com/) - free cross-platform integrated development environment 
 * :free: [Eclipse](https://eclipse.org/) - integrated development environment mainly used for Java 
 * :o2: [Notepad++](https://notepad-plus-plus.org/) Notepad replacement that supports several languages. 
+* :o2: [PlayWeld](https://github.com/scarecr0w12/PlayWeld) - Apache-2.0 desktop workspace built on Eclipse Theia for game files, design notes, project knowledge, and optional AI-assisted tasks. Windows/Linux testing prereleases.
 * :heavy_dollar_sign: [Sublime Text](http://www.sublimetext.com/) Sophisticated text editor for code, markup and prose. 
 * :free: [Visual Studio Code](https://code.visualstudio.com/) Free. Built on open source. Runs everywhere. 
 * :free: [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) A fully-featured, extensible, free IDE 
