@@ -257,8 +257,9 @@ Design
 
 ### Marketing and PR
 
-* :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games 
-* :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing 
+* :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games
+* :triangular_flag_on_post: [PlayScout](https://www.tryplayscout.com) - Finds YouTubers and Twitch streamers who play games like yours
+* :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing
 
 
 ### Mechanics
