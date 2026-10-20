@@ -365,6 +365,7 @@ Tools
 
 ### AI
 * :triangular_flag_on_post: [Coplay](https://coplay.dev?ref=github&utm_source=gamedev_resources) - Multi-agent AI Assistant designed to amplify developer impact in Unity 
+* :free: [RespawnStack](https://respawnstack.com) - Pricing, commercial-use and ownership terms for 30+ AI game-dev tools, quoted from each vendor with source link and date.
 * :triangular_flag_on_post: [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
 
 ### Animation
