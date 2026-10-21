@@ -366,6 +366,7 @@ Tools
 ### AI
 * :triangular_flag_on_post: [Coplay](https://coplay.dev?ref=github&utm_source=gamedev_resources) - Multi-agent AI Assistant designed to amplify developer impact in Unity 
 * :triangular_flag_on_post: [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
+* :free: [StarterLoot](https://starterloot.com) - Free curated directory of AI tools for beginner game developers (art, 3D, animation, music, voice, code), plus guides.
 
 ### Animation
 
