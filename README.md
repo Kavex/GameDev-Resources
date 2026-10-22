@@ -492,6 +492,7 @@ Tools
 
 * :heavy_dollar_sign: [FilterForge](https://www.filterforge.com/) - A plugin for Adobe Photoshop that allows you to build your own filters. 
 * :heavy_dollar_sign: [PixPlant](http://www.pixplant.com/) - Smart 3D texturing tool that creates high quality normal, displacement, specular maps and seamless textures from photos. 
+* :o2: [Sprite Fusion Sprite Normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) - Generate normal maps from pixel art sprites and animations.
 
 
 ### Tile/Level Editors
