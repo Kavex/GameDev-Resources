@@ -258,6 +258,7 @@ Design
 ### Marketing and PR
 
 * :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games 
+* :triangular_flag_on_post: [pitchboom.io](https://pitchboom.io) - AI motion-design studio that turns your game's page or a short brief into voiced video ads for TikTok, Reels and Shorts
 * :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing 
 
 
