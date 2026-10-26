@@ -389,6 +389,7 @@ Tools
 * :o2: [LMMS](https://lmms.io/) - digital audio workstation software 
 * :free: [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™, and ReWire™ support.
 * :o2: [Musagi](http://www.drpetter.se/project_musagi.html) - fairly large and sophisticated music editor and synthesizer 
+* :free: [Online Tone Generator](https://theaudiostuff.com/tools/signal-generator/) - Browser tone, noise and frequency-sweep generator with WAV export, useful for placeholder and test sounds.
 * :free: [PulseBoy](http://www.pulseboy.com/) web-based musical sequencer which only uses 8bit sounds and samples 
 * :o2: [Rosegarden](http://www.rosegardenmusic.com/) - music composition and editing environmen 
 * :heavy_dollar_sign: [Soundation](https://soundation.com/) - Online Professional music studio.
