@@ -90,6 +90,7 @@ Assets
 * :heavy_dollar_sign: [Nameless: the Hackers RPG Soundtrack](https://boxcat.bandcamp.com/album/nameless-the-hackers-rpg-soundtrack) - high-quality by BoxCat Games 
 * :free: [Octave](http://raisedbeaches.com/octave/index.html) - a free library of UI sounds, handmade for iOS. 
 * :free: [PacDV](http://www.pacdv.com/sounds/index.html) - royalty free sounds collection. 
+* :free: [Soundza](https://soundza.com/) - free sound effects, music loops and ambience for games and videos; commercial use, no attribution.
 * :heavy_dollar_sign: [Soundrangers](https://www.soundrangers.com) - high-quality sound effects and music.
 
 
