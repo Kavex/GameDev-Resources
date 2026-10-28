@@ -364,6 +364,7 @@ Tools
 --------
 
 ### AI
+* :heavy_dollar_sign: [3D-Agent](https://3d-agent.com/blender-ai) - Blender AI agent for game-ready 3D assets: text-to-3D with clean quad topology, AI retopology, UVs, rigging and animation, exported as FBX or GLB for Unity, Unreal and Godot. Also connects to Roblox Studio and builds FiveM / GTA V scenes
 * :triangular_flag_on_post: [Coplay](https://coplay.dev?ref=github&utm_source=gamedev_resources) - Multi-agent AI Assistant designed to amplify developer impact in Unity 
 * :triangular_flag_on_post: [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
 
