@@ -447,6 +447,7 @@ Tools
 * :triangular_flag_on_post: [Clara.io](https://clara.io/) - Start creating, rendering and sharing 3D 
 * :triangular_flag_on_post: [NativeBlend CLI](https://github.com/addy999/nativeblend-cli) - AI-powered CLI tool to generate and edit low-poly 3D game assets in Blender from natural language prompts
 * :heavy_dollar_sign: [Packyderm](https://isometric8.itch.io/packyderm-unitypackage-extractor) A lightweight tool that lets you browse and extract the contents of unitypackage files without opening Unity
+* :o2: [SculptForge](https://sculptforge.app/) - Free, open-source digital sculpting app with sculpt layers, dynamic topology, quad retopology, normal map baking and game-ready LOD export
 
 
 ### Pixel Editor
