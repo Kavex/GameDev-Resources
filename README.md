@@ -460,6 +460,7 @@ Tools
 * :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter 
 * :heavy_dollar_sign: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX (Warning: Pixen previously did not support custom gif palettes before becoming paid, and may still have this limiation.) 
 * :heavy_dollar_sign: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. 
+* :o2: [SimplePixelArt](https://simplepixelart.com/) - Free online pixel art editor with layers, animation, a tileset editor and sprite sheet export with Aseprite JSON.
 
 
 ### Spritesheet
