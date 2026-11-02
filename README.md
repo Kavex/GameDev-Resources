@@ -257,7 +257,8 @@ Design
 
 ### Marketing and PR
 
-* :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games 
+* :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games
+* :free: [WishlistForge Steam Description Scorer](https://wishlistforge.com/tools/steam-description) - Free in-browser scorer for Steam short descriptions
 * :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing 
 
 
