@@ -258,6 +258,7 @@ Design
 ### Marketing and PR
 
 * :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games 
+* :o2: [Review Pulse for Steam](https://github.com/botdrop-gg/review-pulse-for-steam) - Posts each new Steam review of your game to a Discord channel. Free, no API key.
 * :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing 
 
 
