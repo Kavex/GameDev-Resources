@@ -411,6 +411,7 @@ Tools
 ### Character Generators
 
 * :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker. 
+* :triangular_flag_on_post: [SpriteCanvas](https://spritecanvas.com/) - AI 2D character generator. Describe a character or upload a reference, then animate it into transparent sprite sheets with JSON atlases for Phaser, PixiJS and Godot.
 
 
 ### Design Tools
