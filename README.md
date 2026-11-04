@@ -64,6 +64,7 @@ Assets
 * :free: [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 * :heavy_dollar_sign: [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets
 * :free: [Games-Icons Set](http://game-icons.net/) - free icons for your games.
+* :triangular_flag_on_post: [Gridwright Studio](https://gridwright.store/) - Pixel-art tilesets, characters, UI, icons and effects for any engine, with free samples; full library by subscription.
 * :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. 
 * :triangular_flag_on_post: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets 
 * :free: [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
