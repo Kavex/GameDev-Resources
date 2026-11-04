@@ -365,6 +365,7 @@ Tools
 
 ### AI
 * :triangular_flag_on_post: [Coplay](https://coplay.dev?ref=github&utm_source=gamedev_resources) - Multi-agent AI Assistant designed to amplify developer impact in Unity 
+* :free: [QuickMatch](https://quickmatch.si) - Directory of AI tools for game creators (3D models, art, music, voice, code, engines) with side-by-side comparisons, free-plan and commercial-use info, and guides
 * :triangular_flag_on_post: [Unity Muse](https://unity.com/products/muse) - Unity's suite of AI products
 
 ### Animation
