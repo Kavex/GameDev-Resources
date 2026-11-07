@@ -81,6 +81,7 @@ Assets
 
 ### Audio Assets
 
+* :free: [DailySounds](https://dailysounds.org/?ref=gdresources) - Free sound effects to play in the browser and download as MP3, WAV or OGG, free for commercial use.
 * :free: [GameSounds](https://gamesounds.xyz/) - Archive of royalty-free game sounds. 
 * :free: [FreePD](http://freepd.com/) - Public Domain Music 
 * :free: [FreeSFX](http://www.freesfx.co.uk/) - free sound effects 
