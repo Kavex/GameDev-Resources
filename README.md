@@ -457,6 +457,7 @@ Tools
 * :heavy_dollar_sign: [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. 
 * :o2: [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. 
 * :free: [Pixa.Pics](https://pixa.pics/) - Load any image on the web app as a pixel art. Then, draw, and eventually vectorize art.  
+* :free: [PixelArtHive](https://pixelarthive.com/) - Browser-based pixel-art converter and sprite upscaler with on-device image processing.
 * :free: [Pixelicious](https://www.pixelicious.xyz/) - Image-to-Pixel Art converter 
 * :heavy_dollar_sign: [Pixen](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX (Warning: Pixen previously did not support custom gif palettes before becoming paid, and may still have this limiation.) 
 * :heavy_dollar_sign: [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. 
