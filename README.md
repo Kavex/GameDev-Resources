@@ -252,7 +252,8 @@ Design
 * :free: [Boardgamizer](http://www.boardgamizer.com) - Board Game Design Idea Generator. 
 * :free: [Gigster](http://www.ludocraft.com/gigster/) Randomized Game Idea Generator  
 * :free: [RPTools](http://www.rptools.net) - a brand of open-source programs designed to enhance traditional pen-and-paper role playing games. 
-* :free: [Video Game Name Generator](https://videogamena.me) Randomized video games names 
+* :free: [Video Game Name Generator](https://videogamena.me) Randomized video games names
+* :free: [Level and World Generators](https://pixlquest.com/tools) Level/Dungeon and World generators with customizable with different icons to make a map key
 
 
 ### Marketing and PR
@@ -272,7 +273,8 @@ Design
 * :triangular_flag_on_post: [Casual](https://casual.pm/) - Visual Project Management 
 * :triangular_flag_on_post: [ClickUp](https://clickup.com/) -  One app to replace them all. 
 * :heavy_dollar_sign: [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games 
-* :triangular_flag_on_post: [HacknPlan](http://hacknplan.com/) - Project management for game developers 
+* :triangular_flag_on_post: [HacknPlan](http://hacknplan.com/) - Project management for game developers
+* :triangular_flag_on_post: [Pixl Quest](http://pixlquest.com/) - Art, code, and milestones for game teams, in one place
 * :triangular_flag_on_post: [Questlog](https://www.questlog.build) - Project management for game developers with built-in GDD editor 
 * :triangular_flag_on_post: [Taiga](https://taiga.io/) - Project management platform for agile developers & designers 
 * :triangular_flag_on_post: [Trello](https://trello.com/) - Organize and prioritize projects 
