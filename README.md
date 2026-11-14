@@ -393,6 +393,7 @@ Tools
 * :o2: [Rosegarden](http://www.rosegardenmusic.com/) - music composition and editing environmen 
 * :heavy_dollar_sign: [Soundation](https://soundation.com/) - Online Professional music studio.
 * :free: [SunVox](http://www.warmplace.ru/soft/sunvox/) - a small, fast and powerful modular synthesizer with a pattern-based sequencer (tracker).
+* :free: [Voidless Retro SFX Generator](https://voidless.dev/tools/retro-sound-effect-generator) - Browser sfxr-style generator for 8-bit jump, coin, laser and explosion sounds. Exports WAV.
 * :o2: [Unity-Audio-Manager](https://github.com/MathewHDYT/Unity-Audio-Manager) - Plugin, that allows to easily play/change/stop/mute/... sounds in 2D/3D 
 
 
@@ -476,6 +477,7 @@ Tools
 * :triangular_flag_on_post: [SpriteUV2](https://www.spriteuv.com/) - tool for creating optimal meshes for textures/sprites and packing them into an atlas. 
 * :o2: [Stitches](https://draeton.github.io/stitches/) An HTML5 sprite sheet generator 
 * :heavy_dollar_sign: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor. 
+* :free: [Voidless Sprite Sheet Cutter](https://voidless.dev/tools/sprite-sheet-slicer) - Browser tool that finds the grid and splits a sprite sheet into PNG frames, downloaded as a ZIP.
 
 
 ### Story Design
@@ -516,6 +518,7 @@ Tools
 ### Voxel Editors
 
 * :o2: [goxel](https://github.com/guillaumechereau/goxel) - Open source 3D voxel editor 
+* :free: [Voidless Voxel Editor](https://voidless.dev/tools/voxel-editor) - Browser voxel editor with box, line and mirror tools. Exports MagicaVoxel .vox, GLB, OBJ or 8-direction sprites.
 * :o2: [VoxelShop](https://blackflux.com/index.php)- Open source for modify and create voxel objects 
 
 
