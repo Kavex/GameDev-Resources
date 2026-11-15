@@ -70,6 +70,7 @@ Assets
 * :heavy_dollar_sign: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
 * :free: [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites). 
 * :triangular_flag_on_post: [Time Fantasy](http://finalbossblues.com/timefantasy/) - Lovely SNES-Looking RPG Assets
+* :free: [VfxSmith Effects Library](https://vfxsmith.com/effects/) - Free animated pixel-art effects with transparent sprite sheets, PNG frames, and Godot 4 exports.
 
 ### 3D Assets
 
