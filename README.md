@@ -64,6 +64,7 @@ Assets
 * :free: [420 Pixel Art Icons for RPGs](http://7soul1.deviantart.com/art/420-Pixel-Art-Icons-for-RPG-129892453) - Set of 420 RPG icons, free for commercial use.
 * :heavy_dollar_sign: [GameartGuppy](http://www.gameartguppy.com/shop/) - Cheap 2D Assets
 * :free: [Games-Icons Set](http://game-icons.net/) - free icons for your games.
+* :triangular_flag_on_post: [Gridwright Studio](https://gridwright.store/) - Pixel-art tilesets, characters, UI, icons and effects for any engine, with free samples; full library by subscription.
 * :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games. 
 * :triangular_flag_on_post: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets 
 * :free: [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
@@ -466,6 +467,7 @@ Tools
 
 * :o2: [Cheetah-Texture-Packer](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool 
 * :free: [GlueIT](https://github.com/Kavex/GlueIT) Free Simple Spritesheet Tool
+* :heavy_dollar_sign: [Gridwright](https://gridwright.dev/) - Pixel-art asset packs drawn on one grid, plus 31 browser tools for tilesets, maps, sprite sheets, effects and sound.
 * :free: [Leshy SpriteSheet Tool](https://www.leshylabs.com/apps/sstool/) -  HTML5 tool for creating, packing, and modifying sprite sheets and texture atlases 
 * :o2: [Libgdx Texture Packer](https://libgdx.com/wiki/) - Texture Packer built into Libgdx 
 * :free: [MakeAtlas](http://www.skn3.com/junk/makeatlas/makeatlas1.12.zip) - Simple tool to pack a texture atlas 
