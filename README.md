@@ -257,6 +257,7 @@ Design
 
 ### Marketing and PR
 
+* :triangular_flag_on_post: [GameQuant](https://gamequant.io/) - Daily App Store top game charts in 170+ countries with download and revenue estimates 
 * :free: [Glitch](https://www.glitch.fun/) - Marketing Automation For Video Games 
 * :free: [Yunoia](https://www.yunoia.com/) - Online Publishers/Marketing 
 
