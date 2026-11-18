@@ -114,6 +114,7 @@ Code
 
 * [AdMob by Google](https://admob.google.com/home/games/) - Google's Ads and monetization service for mobile.
 * [Appodeal](http://www.appodeal.com/) - A programmatic ad mediation solution for mobile apps.
+* [Boltshorts Mobile Game Benchmarks](https://boltshorts.com/data/genres/) - Free per-genre data on ~8,000 mobile games: share with ads and in-app purchases, prices and download size.
 * [Unity Ads](https://unity3d.com/services/ads) - Unity3D Official Ads SDK.
 
 
